@@ -1,0 +1,950 @@
+customerID,Contract,InternetService,tenure,MonthlyCharges,TotalCharges,Churn_Probability,Risk_Level,Recommended_Action
+2636-ALXXZ,Month-to-month,Fiber optic,1,69.6,69.6,1.0,High,Offer a long-term contract with a targeted retention incentive.
+4510-HIMLV,Month-to-month,Fiber optic,1,69.8,69.8,1.0,High,Offer a long-term contract with a targeted retention incentive.
+3428-XZMAZ,Month-to-month,Fiber optic,1,69.35,69.35,1.0,High,Offer a long-term contract with a targeted retention incentive.
+8375-DKEBR,Month-to-month,Fiber optic,1,69.6,69.6,1.0,High,Offer a long-term contract with a targeted retention incentive.
+1820-TQVEV,Month-to-month,Fiber optic,1,69.55,69.55,1.0,High,Offer a long-term contract with a targeted retention incentive.
+6358-LYNGM,Month-to-month,Fiber optic,1,74.9,74.9,1.0,High,Offer a long-term contract with a targeted retention incentive.
+1452-VOQCH,Month-to-month,Fiber optic,1,75.1,75.1,1.0,High,Offer a long-term contract with a targeted retention incentive.
+7665-TOALD,Month-to-month,Fiber optic,1,69.6,69.6,1.0,High,Offer a long-term contract with a targeted retention incentive.
+4871-JTKJF,Month-to-month,Fiber optic,1,69.65,69.65,0.995,High,Offer a long-term contract with a targeted retention incentive.
+5797-APWZC,Month-to-month,Fiber optic,1,90.6,90.6,0.995,High,Offer a long-term contract with a targeted retention incentive.
+5960-WPXQM,Month-to-month,Fiber optic,1,79.05,79.05,0.995,High,Offer a long-term contract with a targeted retention incentive.
+6457-GIRWB,Month-to-month,Fiber optic,1,69.35,69.35,0.9945859872611464,High,Offer a long-term contract with a targeted retention incentive.
+1285-OKIPP,Month-to-month,Fiber optic,1,79.9,79.9,0.99,High,Offer a long-term contract with a targeted retention incentive.
+7206-GZCDC,Month-to-month,Fiber optic,1,69.25,69.25,0.99,High,Offer a long-term contract with a targeted retention incentive.
+0488-GSLFR,Month-to-month,Fiber optic,1,69.5,69.5,0.99,High,Offer a long-term contract with a targeted retention incentive.
+9497-QCMMS,Month-to-month,Fiber optic,1,93.55,93.55,0.99,High,Offer a long-term contract with a targeted retention incentive.
+7577-SWIFR,Month-to-month,Fiber optic,1,89.25,89.25,0.99,High,Offer a long-term contract with a targeted retention incentive.
+5542-TBBWB,Month-to-month,Fiber optic,1,69.9,69.9,0.99,High,Offer a long-term contract with a targeted retention incentive.
+9300-AGZNL,Month-to-month,Fiber optic,1,94.0,94.0,0.99,High,Offer a long-term contract with a targeted retention incentive.
+6502-MJQAE,Month-to-month,Fiber optic,1,69.6,69.6,0.9895859872611464,High,Offer a long-term contract with a targeted retention incentive.
+7254-IQWOZ,Month-to-month,Fiber optic,1,69.65,69.65,0.9888212813787935,High,Offer a long-term contract with a targeted retention incentive.
+7294-TMAOP,Month-to-month,Fiber optic,1,90.55,90.55,0.985,High,Offer a long-term contract with a targeted retention incentive.
+0495-RVCBF,Month-to-month,Fiber optic,1,79.7,79.7,0.985,High,Offer a long-term contract with a targeted retention incentive.
+3551-HUAZH,Month-to-month,Fiber optic,1,74.4,74.4,0.985,High,Offer a long-term contract with a targeted retention incentive.
+1761-AEZZR,Month-to-month,Fiber optic,1,79.55,79.55,0.985,High,Offer a long-term contract with a targeted retention incentive.
+9019-QVLZD,Month-to-month,Fiber optic,1,79.55,79.55,0.985,High,Offer a long-term contract with a targeted retention incentive.
+8040-MNRTF,Month-to-month,Fiber optic,1,71.1,71.1,0.985,High,Offer a long-term contract with a targeted retention incentive.
+5539-TMZLF,Month-to-month,Fiber optic,1,69.75,69.75,0.985,High,Offer a long-term contract with a targeted retention incentive.
+8580-AECUZ,Month-to-month,Fiber optic,1,79.1,79.1,0.985,High,Offer a long-term contract with a targeted retention incentive.
+9728-FTTVZ,Month-to-month,Fiber optic,1,69.2,69.2,0.98,High,Offer a long-term contract with a targeted retention incentive.
+7660-HDPJV,Month-to-month,Fiber optic,1,69.2,69.2,0.98,High,Offer a long-term contract with a targeted retention incentive.
+8740-CRYFY,Month-to-month,Fiber optic,1,78.95,78.95,0.98,High,Offer a long-term contract with a targeted retention incentive.
+0295-PPHDO,Month-to-month,Fiber optic,1,95.45,95.45,0.98,High,Offer a long-term contract with a targeted retention incentive.
+8058-INTPH,Month-to-month,Fiber optic,1,79.65,79.65,0.9792347043175772,High,Offer a long-term contract with a targeted retention incentive.
+5043-TRZWM,Month-to-month,Fiber optic,1,75.55,75.55,0.975,High,Offer a long-term contract with a targeted retention incentive.
+7439-DKZTW,Month-to-month,Fiber optic,1,80.55,80.55,0.975,High,Offer a long-term contract with a targeted retention incentive.
+0841-NULXI,Month-to-month,DSL,1,35.55,35.55,0.975,High,Offer a long-term contract with a targeted retention incentive.
+9248-OJYKK,Month-to-month,Fiber optic,1,76.45,76.45,0.975,High,Offer a long-term contract with a targeted retention incentive.
+2545-EBUPK,Month-to-month,Fiber optic,2,84.05,186.05,0.975,High,Offer a long-term contract with a targeted retention incentive.
+4102-OQUPX,Month-to-month,Fiber optic,1,74.4,74.4,0.975,High,Offer a long-term contract with a targeted retention incentive.
+1455-ESIQH,Month-to-month,Fiber optic,1,89.1,89.1,0.975,High,Offer a long-term contract with a targeted retention incentive.
+2004-OCQXK,Month-to-month,Fiber optic,1,81.95,81.95,0.975,High,Offer a long-term contract with a targeted retention incentive.
+2514-GINMM,Month-to-month,Fiber optic,1,79.5,79.5,0.975,High,Offer a long-term contract with a targeted retention incentive.
+5393-RXQSZ,Month-to-month,Fiber optic,1,79.6,79.6,0.975,High,Offer a long-term contract with a targeted retention incentive.
+4424-TKOPW,Month-to-month,Fiber optic,2,93.85,196.75,0.97,High,Offer a long-term contract with a targeted retention incentive.
+5178-LMXOP,Month-to-month,Fiber optic,1,95.1,95.1,0.97,High,Offer a long-term contract with a targeted retention incentive.
+1447-GIQMR,Month-to-month,Fiber optic,1,69.15,69.15,0.97,High,Offer a long-term contract with a targeted retention incentive.
+5240-IJOQT,Month-to-month,Fiber optic,1,74.7,74.7,0.97,High,Offer a long-term contract with a targeted retention incentive.
+6894-LFHLY,Month-to-month,Fiber optic,1,75.75,75.75,0.965,High,Offer a long-term contract with a targeted retention incentive.
+4550-EVXNY,Month-to-month,Fiber optic,1,69.65,69.65,0.965,High,Offer a long-term contract with a targeted retention incentive.
+2777-PHDEI,Month-to-month,Fiber optic,1,78.05,78.05,0.965,High,Offer a long-term contract with a targeted retention incentive.
+7908-QCBCA,Month-to-month,Fiber optic,1,69.4,69.4,0.965,High,Offer a long-term contract with a targeted retention incentive.
+6861-XWTWQ,Month-to-month,Fiber optic,7,99.25,665.45,0.965,High,Offer a long-term contract with a targeted retention incentive.
+5494-HECPR,Month-to-month,Fiber optic,1,80.25,80.25,0.965,High,Offer a long-term contract with a targeted retention incentive.
+1768-ZAIFU,Month-to-month,DSL,1,25.2,25.2,0.965,High,Offer a long-term contract with a targeted retention incentive.
+7180-PISOG,Month-to-month,Fiber optic,1,74.5,74.5,0.965,High,Offer a long-term contract with a targeted retention incentive.
+5134-IKDAY,Month-to-month,Fiber optic,1,69.8,69.8,0.9623451641526176,High,Offer a long-term contract with a targeted retention incentive.
+0897-FEGMU,Month-to-month,Fiber optic,11,99.5,1056.95,0.96,High,Offer a long-term contract with a targeted retention incentive.
+2609-IAICY,Month-to-month,Fiber optic,1,77.15,77.15,0.96,High,Offer a long-term contract with a targeted retention incentive.
+2506-TNFCO,Month-to-month,Fiber optic,1,69.55,69.55,0.96,High,Offer a long-term contract with a targeted retention incentive.
+4910-GMJOT,Month-to-month,Fiber optic,1,94.6,94.6,0.96,High,Offer a long-term contract with a targeted retention incentive.
+5550-VFRLC,Month-to-month,Fiber optic,1,69.85,69.85,0.9560177462289264,High,Offer a long-term contract with a targeted retention incentive.
+7274-RTAPZ,Month-to-month,Fiber optic,1,90.55,90.55,0.955,High,Offer a long-term contract with a targeted retention incentive.
+8149-RSOUN,Month-to-month,Fiber optic,1,93.85,93.85,0.955,High,Offer a long-term contract with a targeted retention incentive.
+9124-LHCJQ,Month-to-month,Fiber optic,1,85.45,85.45,0.955,High,Offer a long-term contract with a targeted retention incentive.
+3716-BDVDB,Month-to-month,Fiber optic,1,69.1,69.1,0.955,High,Offer a long-term contract with a targeted retention incentive.
+4415-IJZTP,Month-to-month,Fiber optic,1,74.5,74.5,0.955,High,Offer a long-term contract with a targeted retention incentive.
+2262-SLNVK,Month-to-month,Fiber optic,1,70.1,70.1,0.9500410009990136,High,Offer a long-term contract with a targeted retention incentive.
+3765-JXVKY,Month-to-month,Fiber optic,1,74.7,74.7,0.95,High,Offer a long-term contract with a targeted retention incentive.
+3066-RRJIO,Month-to-month,Fiber optic,1,69.95,69.95,0.95,High,Offer a long-term contract with a targeted retention incentive.
+6567-HOOPW,Month-to-month,Fiber optic,1,79.2,79.2,0.95,High,Offer a long-term contract with a targeted retention incentive.
+3091-FYHKI,Month-to-month,DSL,1,35.45,35.45,0.95,High,Offer a long-term contract with a targeted retention incentive.
+8062-YBDOE,Month-to-month,Fiber optic,1,69.65,69.65,0.945,High,Offer a long-term contract with a targeted retention incentive.
+5597-GLBUC,Month-to-month,Fiber optic,1,85.45,85.45,0.945,High,Offer a long-term contract with a targeted retention incentive.
+2867-UIMSS,Month-to-month,Fiber optic,1,80.5,80.5,0.94,High,Offer a long-term contract with a targeted retention incentive.
+1069-XAIEM,Month-to-month,Fiber optic,1,85.05,85.05,0.94,High,Offer a long-term contract with a targeted retention incentive.
+0697-ZMSWS,Month-to-month,Fiber optic,4,85.65,338.9,0.94,High,Offer a long-term contract with a targeted retention incentive.
+9885-CSMWE,Month-to-month,Fiber optic,1,78.45,78.45,0.94,High,Offer a long-term contract with a targeted retention incentive.
+2619-WFQWU,Month-to-month,Fiber optic,1,70.15,70.15,0.9386725820763088,High,Offer a long-term contract with a targeted retention incentive.
+8593-WHYHV,Month-to-month,Fiber optic,3,85.3,264.8,0.935,High,Offer a long-term contract with a targeted retention incentive.
+9330-IJWIO,Month-to-month,Fiber optic,13,100.35,1358.85,0.935,High,Offer a long-term contract with a targeted retention incentive.
+2720-WGKHP,Month-to-month,Fiber optic,2,94.0,181.7,0.935,High,Offer a long-term contract with a targeted retention incentive.
+7576-OYWBN,Month-to-month,Fiber optic,3,76.05,231.8,0.935,High,Offer a long-term contract with a targeted retention incentive.
+5884-GCYMI,Month-to-month,Fiber optic,1,69.4,69.4,0.935,High,Offer a long-term contract with a targeted retention incentive.
+2688-BHGOG,Month-to-month,Fiber optic,9,79.55,718.55,0.935,High,Offer a long-term contract with a targeted retention incentive.
+7450-NWRTR,Month-to-month,Fiber optic,12,99.45,1200.15,0.93,High,Offer a long-term contract with a targeted retention incentive.
+4110-PFEUZ,Month-to-month,Fiber optic,1,69.55,69.55,0.93,High,Offer a long-term contract with a targeted retention incentive.
+4988-IQIGL,Month-to-month,Fiber optic,1,75.35,75.35,0.93,High,Offer a long-term contract with a targeted retention incentive.
+7216-EWTRS,Month-to-month,Fiber optic,1,100.8,100.8,0.93,High,Offer a long-term contract with a targeted retention incentive.
+4912-PIGUY,Month-to-month,Fiber optic,1,84.6,84.6,0.93,High,Offer a long-term contract with a targeted retention incentive.
+4143-OOBWZ,Month-to-month,Fiber optic,5,81.3,416.3,0.93,High,Offer a long-term contract with a targeted retention incentive.
+4273-MBHYA,Month-to-month,Fiber optic,1,89.35,89.35,0.93,High,Offer a long-term contract with a targeted retention incentive.
+4702-IOQDC,Month-to-month,Fiber optic,1,70.1,70.1,0.9286217295033368,High,Offer a long-term contract with a targeted retention incentive.
+9057-SIHCH,Month-to-month,Fiber optic,3,96.6,291.9,0.925,High,Offer a long-term contract with a targeted retention incentive.
+1455-UGQVH,Month-to-month,Fiber optic,10,98.5,1037.75,0.925,High,Offer a long-term contract with a targeted retention incentive.
+2012-NWRPA,Month-to-month,Fiber optic,11,99.55,1131.2,0.925,High,Offer a long-term contract with a targeted retention incentive.
+2868-MZAGQ,Month-to-month,Fiber optic,1,79.25,79.25,0.925,High,Offer a long-term contract with a targeted retention incentive.
+3006-XIMLN,Month-to-month,Fiber optic,2,94.2,193.8,0.925,High,Offer a long-term contract with a targeted retention incentive.
+8258-GSTJK,Month-to-month,Fiber optic,3,77.0,237.75,0.925,High,Offer a long-term contract with a targeted retention incentive.
+5419-JPRRN,Month-to-month,Fiber optic,1,101.45,101.45,0.925,High,Offer a long-term contract with a targeted retention incentive.
+0195-IESCP,Month-to-month,Fiber optic,10,85.25,855.3,0.925,High,Offer a long-term contract with a targeted retention incentive.
+9985-MWVIX,Month-to-month,Fiber optic,1,70.15,70.15,0.92,High,Offer a long-term contract with a targeted retention incentive.
+8884-ADFVN,Month-to-month,Fiber optic,7,101.95,700.85,0.92,High,Offer a long-term contract with a targeted retention incentive.
+3746-EUBYR,Month-to-month,Fiber optic,1,74.6,74.6,0.92,High,Offer a long-term contract with a targeted retention incentive.
+3988-RQIXO,Month-to-month,Fiber optic,1,91.3,91.3,0.92,High,Offer a long-term contract with a targeted retention incentive.
+1031-IIDEO,Month-to-month,Fiber optic,1,70.85,70.85,0.92,High,Offer a long-term contract with a targeted retention incentive.
+4234-XTNEA,Month-to-month,Fiber optic,2,79.95,174.45,0.92,High,Offer a long-term contract with a targeted retention incentive.
+2789-HQBOU,Month-to-month,Fiber optic,3,80.35,253.8,0.915,High,Offer a long-term contract with a targeted retention incentive.
+1569-TTNYJ,Month-to-month,Fiber optic,5,78.75,412.1,0.915,High,Offer a long-term contract with a targeted retention incentive.
+9725-SCPZG,Month-to-month,Fiber optic,1,90.85,90.85,0.915,High,Offer a long-term contract with a targeted retention incentive.
+2215-ZAFGX,Month-to-month,Fiber optic,9,85.5,791.7,0.915,High,Offer a long-term contract with a targeted retention incentive.
+0742-NXBGR,Month-to-month,Fiber optic,1,82.3,82.3,0.915,High,Offer a long-term contract with a targeted retention incentive.
+4501-EQDRN,Month-to-month,Fiber optic,1,69.7,69.7,0.9136734693877552,High,Offer a long-term contract with a targeted retention incentive.
+7851-WZEKY,Month-to-month,Fiber optic,2,95.15,196.9,0.91,High,Offer a long-term contract with a targeted retention incentive.
+4614-NUVZD,Month-to-month,Fiber optic,1,81.1,81.1,0.91,High,Offer a long-term contract with a targeted retention incentive.
+3068-OMWZA,Month-to-month,Fiber optic,1,88.8,88.8,0.91,High,Offer a long-term contract with a targeted retention incentive.
+4078-SAYYN,Month-to-month,Fiber optic,11,100.75,1129.75,0.91,High,Offer a long-term contract with a targeted retention incentive.
+9681-OXGVC,Month-to-month,Fiber optic,5,100.5,514.0,0.91,High,Offer a long-term contract with a targeted retention incentive.
+6357-JJPQT,Month-to-month,Fiber optic,3,80.5,232.35,0.91,High,Offer a long-term contract with a targeted retention incentive.
+2656-TABEH,Month-to-month,Fiber optic,4,100.2,420.2,0.91,High,Offer a long-term contract with a targeted retention incentive.
+0723-DRCLG,Month-to-month,Fiber optic,1,74.45,74.45,0.91,High,Offer a long-term contract with a targeted retention incentive.
+0679-IDSTG,Month-to-month,Fiber optic,1,69.25,69.25,0.91,High,Offer a long-term contract with a targeted retention incentive.
+3930-ZGWVE,Month-to-month,No,1,19.75,19.75,0.9094845371851644,High,Offer a long-term contract with a targeted retention incentive.
+4759-TRPLW,Month-to-month,Fiber optic,1,70.4,70.4,0.9093684299404736,High,Offer a long-term contract with a targeted retention incentive.
+7243-LCGGZ,Month-to-month,No,1,20.9,20.9,0.9086732339368122,High,Offer a long-term contract with a targeted retention incentive.
+2982-IHMFT,Month-to-month,Fiber optic,1,74.45,74.45,0.905,High,Offer a long-term contract with a targeted retention incentive.
+6372-RFVNS,Month-to-month,Fiber optic,1,78.8,78.8,0.905,High,Offer a long-term contract with a targeted retention incentive.
+3387-VATUS,Month-to-month,Fiber optic,5,94.85,462.8,0.905,High,Offer a long-term contract with a targeted retention incentive.
+8058-JMEQO,Month-to-month,Fiber optic,9,84.45,762.5,0.905,High,Offer a long-term contract with a targeted retention incentive.
+3198-VELRD,Month-to-month,Fiber optic,3,84.75,264.85,0.905,High,Offer a long-term contract with a targeted retention incentive.
+6215-NQCPY,Month-to-month,Fiber optic,15,99.7,1566.75,0.905,High,Offer a long-term contract with a targeted retention incentive.
+8380-PEFPE,Month-to-month,Fiber optic,1,71.65,71.65,0.9036732339368122,High,Offer a long-term contract with a targeted retention incentive.
+3318-NMQXL,Month-to-month,Fiber optic,3,92.0,266.8,0.9,High,Offer a long-term contract with a targeted retention incentive.
+8372-JUXUI,Month-to-month,Fiber optic,1,74.35,74.35,0.9,High,Offer a long-term contract with a targeted retention incentive.
+8779-QRDMV,Month-to-month,DSL,1,39.65,39.65,0.9,High,Offer a long-term contract with a targeted retention incentive.
+6424-ELEYH,Month-to-month,Fiber optic,3,74.75,229.5,0.9,High,Offer a long-term contract with a targeted retention incentive.
+1000-AJSLD,Month-to-month,No,1,20.1,20.1,0.9,High,Offer a long-term contract with a targeted retention incentive.
+6474-FVJLC,Month-to-month,Fiber optic,2,86.0,165.45,0.9,High,Offer a long-term contract with a targeted retention incentive.
+2254-DLXRI,Month-to-month,Fiber optic,1,79.15,79.15,0.9,High,Offer a long-term contract with a targeted retention incentive.
+7465-ZZRVX,Month-to-month,Fiber optic,1,70.35,70.35,0.8990675356443815,High,Offer a long-term contract with a targeted retention incentive.
+0151-ONTOV,Month-to-month,Fiber optic,1,70.9,70.9,0.8990442657688597,High,Offer a long-term contract with a targeted retention incentive.
+8972-HJWNV,Month-to-month,Fiber optic,7,84.55,646.85,0.895,High,Offer a long-term contract with a targeted retention incentive.
+3158-MOERK,Month-to-month,Fiber optic,2,96.0,174.8,0.895,High,Offer a long-term contract with a targeted retention incentive.
+4581-SSPWD,Month-to-month,Fiber optic,3,75.8,246.3,0.895,High,Offer a long-term contract with a targeted retention incentive.
+5277-ZLOOR,Month-to-month,Fiber optic,2,85.55,187.45,0.895,High,Offer a long-term contract with a targeted retention incentive.
+9546-CQJSU,Month-to-month,Fiber optic,2,91.4,193.6,0.895,High,Offer a long-term contract with a targeted retention incentive.
+0107-YHINA,Month-to-month,Fiber optic,1,99.75,99.75,0.895,High,Offer a long-term contract with a targeted retention incentive.
+5196-SGOAK,Month-to-month,Fiber optic,1,75.7,75.7,0.895,High,Offer a long-term contract with a targeted retention incentive.
+4529-CKBCL,Month-to-month,Fiber optic,2,80.2,146.05,0.895,High,Offer a long-term contract with a targeted retention incentive.
+7994-UYIVZ,Month-to-month,Fiber optic,8,85.65,659.45,0.895,High,Offer a long-term contract with a targeted retention incentive.
+2135-RXIHG,Month-to-month,DSL,1,45.65,45.65,0.895,High,Offer a long-term contract with a targeted retention incentive.
+1751-NCDLI,Month-to-month,Fiber optic,46,98.85,4564.9,0.895,High,Offer a long-term contract with a targeted retention incentive.
+4826-XTSOH,Month-to-month,Fiber optic,1,86.05,86.05,0.895,High,Offer a long-term contract with a targeted retention incentive.
+6496-JDSSB,Month-to-month,Fiber optic,8,80.0,624.6,0.895,High,Offer a long-term contract with a targeted retention incentive.
+1084-UQCHV,Month-to-month,Fiber optic,1,69.75,69.75,0.8929029316874737,High,Offer a long-term contract with a targeted retention incentive.
+9753-OYLBX,Month-to-month,No,1,20.5,20.5,0.8911675010159444,High,Offer a long-term contract with a targeted retention incentive.
+0822-GAVAP,Month-to-month,DSL,2,34.7,62.25,0.89,High,Offer a long-term contract with a targeted retention incentive.
+3276-HDUEG,Month-to-month,Fiber optic,1,75.05,75.05,0.89,High,Offer a long-term contract with a targeted retention incentive.
+2968-SSGAA,Month-to-month,Fiber optic,10,100.6,1060.2,0.89,High,Offer a long-term contract with a targeted retention incentive.
+4897-QSUYC,Month-to-month,No,1,20.15,20.15,0.8899483271070315,High,Offer a long-term contract with a targeted retention incentive.
+3462-BJQQA,Month-to-month,Fiber optic,6,89.75,552.65,0.885,High,Offer a long-term contract with a targeted retention incentive.
+8087-LGYHQ,Month-to-month,Fiber optic,9,94.05,811.65,0.885,High,Offer a long-term contract with a targeted retention incentive.
+5299-SJCZT,Month-to-month,Fiber optic,3,101.55,298.35,0.885,High,Offer a long-term contract with a targeted retention incentive.
+9305-CDSKC,Month-to-month,Fiber optic,8,99.65,820.5,0.885,High,Offer a long-term contract with a targeted retention incentive.
+2018-QKYGT,Month-to-month,Fiber optic,1,81.05,81.05,0.885,High,Offer a long-term contract with a targeted retention incentive.
+7409-KIUTL,Month-to-month,Fiber optic,1,71.0,71.0,0.885,High,Offer a long-term contract with a targeted retention incentive.
+7503-ZGUZJ,Month-to-month,Fiber optic,1,84.65,84.65,0.885,High,Offer a long-term contract with a targeted retention incentive.
+2275-RBYQS,Month-to-month,DSL,1,45.4,45.4,0.885,High,Offer a long-term contract with a targeted retention incentive.
+8473-VUVJN,Month-to-month,Fiber optic,1,73.65,73.65,0.885,High,Offer a long-term contract with a targeted retention incentive.
+6230-BSUXY,Month-to-month,Fiber optic,1,85.0,85.0,0.885,High,Offer a long-term contract with a targeted retention incentive.
+6857-VWJDT,Month-to-month,Fiber optic,1,95.65,95.65,0.8823656257645294,High,Offer a long-term contract with a targeted retention incentive.
+3785-NRHYR,Month-to-month,No,1,19.65,19.65,0.8811425851495475,High,Offer a long-term contract with a targeted retention incentive.
+9282-IZGQK,Month-to-month,Fiber optic,1,85.0,85.0,0.88,High,Offer a long-term contract with a targeted retention incentive.
+5133-POWUA,Month-to-month,DSL,1,45.8,45.8,0.88,High,Offer a long-term contract with a targeted retention incentive.
+1640-PLFMP,Month-to-month,Fiber optic,1,70.25,70.25,0.88,High,Offer a long-term contract with a targeted retention incentive.
+9605-WGJVW,Month-to-month,Fiber optic,1,70.2,70.2,0.88,High,Offer a long-term contract with a targeted retention incentive.
+3148-BLQJT,Month-to-month,No,1,20.1,20.1,0.8792351376240662,High,Offer a long-term contract with a targeted retention incentive.
+4603-JANFB,Month-to-month,Fiber optic,1,69.85,69.85,0.8784411260318633,High,Offer a long-term contract with a targeted retention incentive.
+0023-HGHWL,Month-to-month,DSL,1,25.1,25.1,0.875,High,Offer a long-term contract with a targeted retention incentive.
+6229-LSCKB,Month-to-month,Fiber optic,6,79.7,497.6,0.875,High,Offer a long-term contract with a targeted retention incentive.
+3811-VBYBZ,Month-to-month,Fiber optic,7,99.8,673.25,0.875,High,Offer a long-term contract with a targeted retention incentive.
+5054-IEXZT,Month-to-month,Fiber optic,1,75.35,75.35,0.875,High,Offer a long-term contract with a targeted retention incentive.
+5186-SAMNZ,Month-to-month,Fiber optic,1,69.5,69.5,0.875,High,Offer a long-term contract with a targeted retention incentive.
+8161-QYMTT,Month-to-month,Fiber optic,7,94.1,701.3,0.875,High,Offer a long-term contract with a targeted retention incentive.
+8603-IJWDN,Month-to-month,Fiber optic,1,86.6,86.6,0.875,High,Offer a long-term contract with a targeted retention incentive.
+6328-ZPBGN,Month-to-month,Fiber optic,11,95.15,997.65,0.875,High,Offer a long-term contract with a targeted retention incentive.
+3878-AVSOQ,Month-to-month,Fiber optic,1,71.25,71.25,0.875,High,Offer a long-term contract with a targeted retention incentive.
+4822-RVYBB,Month-to-month,Fiber optic,8,100.6,819.4,0.87,High,Offer a long-term contract with a targeted retention incentive.
+1766-GKNMI,Month-to-month,Fiber optic,29,84.9,2516.2,0.87,High,Offer a long-term contract with a targeted retention incentive.
+7024-OHCCK,Month-to-month,Fiber optic,2,93.85,170.85,0.87,High,Offer a long-term contract with a targeted retention incentive.
+9507-EXLTT,Month-to-month,Fiber optic,1,79.35,79.35,0.87,High,Offer a long-term contract with a targeted retention incentive.
+1304-NECVQ,Month-to-month,Fiber optic,2,78.55,149.55,0.87,High,Offer a long-term contract with a targeted retention incentive.
+1980-KXVPM,Month-to-month,Fiber optic,3,75.05,256.25,0.87,High,Offer a long-term contract with a targeted retention incentive.
+6521-YYTYI,Month-to-month,Fiber optic,1,93.3,93.3,0.87,High,Offer a long-term contract with a targeted retention incentive.
+4750-ZRXIU,Month-to-month,Fiber optic,4,84.6,360.1,0.87,High,Offer a long-term contract with a targeted retention incentive.
+3049-NDXFL,Month-to-month,Fiber optic,1,85.8,85.8,0.8685382297316757,High,Offer a long-term contract with a targeted retention incentive.
+2612-RANWT,Month-to-month,Fiber optic,12,100.15,1164.3,0.865,High,Offer a long-term contract with a targeted retention incentive.
+2952-QAYZF,Month-to-month,Fiber optic,5,85.3,424.15,0.865,High,Offer a long-term contract with a targeted retention incentive.
+2024-BASKD,Month-to-month,Fiber optic,1,74.6,74.6,0.865,High,Offer a long-term contract with a targeted retention incentive.
+9822-OAOVB,Month-to-month,DSL,1,55.45,55.45,0.865,High,Offer a long-term contract with a targeted retention incentive.
+9965-YOKZB,Month-to-month,Fiber optic,9,83.85,790.15,0.865,High,Offer a long-term contract with a targeted retention incentive.
+7779-LGOVN,Month-to-month,Fiber optic,10,86.65,856.65,0.865,High,Offer a long-term contract with a targeted retention incentive.
+6688-UZPWD,Month-to-month,Fiber optic,11,102.0,1145.35,0.865,High,Offer a long-term contract with a targeted retention incentive.
+1965-AKTSX,Month-to-month,Fiber optic,14,78.95,1101.85,0.865,High,Offer a long-term contract with a targeted retention incentive.
+0375-HVGXO,Month-to-month,DSL,1,34.7,34.7,0.865,High,Offer a long-term contract with a targeted retention incentive.
+8945-GRKHX,Month-to-month,Fiber optic,1,78.65,78.65,0.865,High,Offer a long-term contract with a targeted retention incentive.
+9025-AOMKI,Month-to-month,Fiber optic,6,93.55,536.4,0.865,High,Offer a long-term contract with a targeted retention incentive.
+9488-HGMJH,Month-to-month,Fiber optic,1,71.15,71.15,0.8631769290128817,High,Offer a long-term contract with a targeted retention incentive.
+1853-UDXBW,Month-to-month,Fiber optic,1,70.0,70.0,0.8613766950290405,High,Offer a long-term contract with a targeted retention incentive.
+4952-YSOGZ,Month-to-month,Fiber optic,4,85.95,381.3,0.86,High,Offer a long-term contract with a targeted retention incentive.
+6416-TVAIH,Month-to-month,Fiber optic,1,68.5,68.5,0.86,High,Offer a long-term contract with a targeted retention incentive.
+4090-KPJIP,Month-to-month,Fiber optic,3,74.95,212.4,0.86,High,Offer a long-term contract with a targeted retention incentive.
+4060-LDNLU,Month-to-month,Fiber optic,7,96.2,639.7,0.86,High,Offer a long-term contract with a targeted retention incentive.
+9306-CPCBC,Month-to-month,Fiber optic,3,74.25,210.3,0.86,High,Offer a long-term contract with a targeted retention incentive.
+9850-OWRHQ,Month-to-month,Fiber optic,3,74.1,228.0,0.855,High,Offer a long-term contract with a targeted retention incentive.
+3776-EKTKM,Month-to-month,DSL,1,36.45,36.45,0.855,High,Offer a long-term contract with a targeted retention incentive.
+4806-HIPDW,Month-to-month,Fiber optic,1,68.95,68.95,0.855,High,Offer a long-term contract with a targeted retention incentive.
+9172-ANCRX,Month-to-month,Fiber optic,10,98.7,973.25,0.855,High,Offer a long-term contract with a targeted retention incentive.
+5150-ITWWB,Month-to-month,Fiber optic,3,94.85,335.75,0.855,High,Offer a long-term contract with a targeted retention incentive.
+3707-GNWHM,Month-to-month,Fiber optic,1,74.25,74.25,0.855,High,Offer a long-term contract with a targeted retention incentive.
+7359-PTSXY,Month-to-month,DSL,1,45.75,45.75,0.855,High,Offer a long-term contract with a targeted retention incentive.
+9223-UCPVT,Month-to-month,Fiber optic,1,94.4,94.4,0.855,High,Offer a long-term contract with a targeted retention incentive.
+3370-HXOPH,Month-to-month,Fiber optic,3,76.1,257.6,0.855,High,Offer a long-term contract with a targeted retention incentive.
+5570-PTWEH,Month-to-month,Fiber optic,3,75.15,216.75,0.8542352941176471,High,Offer a long-term contract with a targeted retention incentive.
+5216-WASFJ,Month-to-month,Fiber optic,31,84.85,2633.4,0.85,High,Offer a long-term contract with a targeted retention incentive.
+0259-GBZSH,Month-to-month,Fiber optic,2,85.65,181.5,0.85,High,Offer a long-term contract with a targeted retention incentive.
+3398-FSHON,Month-to-month,Fiber optic,12,91.3,1094.5,0.85,High,Offer a long-term contract with a targeted retention incentive.
+4844-JJWUY,Month-to-month,Fiber optic,1,86.0,86.0,0.85,High,Offer a long-term contract with a targeted retention incentive.
+4626-GYCZP,Month-to-month,Fiber optic,7,93.85,635.6,0.85,High,Offer a long-term contract with a targeted retention incentive.
+1273-MTETI,Month-to-month,Fiber optic,4,88.85,372.45,0.85,High,Offer a long-term contract with a targeted retention incentive.
+5564-NEMQO,Month-to-month,Fiber optic,1,75.3,75.3,0.85,High,Offer a long-term contract with a targeted retention incentive.
+2446-BEGGB,Month-to-month,Fiber optic,6,98.25,560.6,0.85,High,Offer a long-term contract with a targeted retention incentive.
+5378-IKEEG,Month-to-month,DSL,1,35.75,35.75,0.85,High,Offer a long-term contract with a targeted retention incentive.
+8348-HFYIV,Month-to-month,DSL,2,49.25,90.35,0.85,High,Offer a long-term contract with a targeted retention incentive.
+0781-LKXBR,Month-to-month,Fiber optic,9,100.5,918.6,0.85,High,Offer a long-term contract with a targeted retention incentive.
+5275-SQEIZ,Month-to-month,Fiber optic,1,80.85,80.85,0.8486732339368122,High,Offer a long-term contract with a targeted retention incentive.
+6356-ELRKD,Month-to-month,Fiber optic,1,95.6,95.6,0.845,High,Offer a long-term contract with a targeted retention incentive.
+8168-UQWWF,Month-to-month,Fiber optic,11,97.85,1105.4,0.845,High,Offer a long-term contract with a targeted retention incentive.
+1833-VGRUM,Month-to-month,Fiber optic,1,74.2,74.2,0.845,High,Offer a long-term contract with a targeted retention incentive.
+8086-OVPWV,Month-to-month,Fiber optic,2,80.2,181.1,0.845,High,Offer a long-term contract with a targeted retention incentive.
+6969-MVBAI,Month-to-month,Fiber optic,9,90.1,816.8,0.845,High,Offer a long-term contract with a targeted retention incentive.
+8183-ONMXC,Month-to-month,Fiber optic,2,80.75,159.45,0.845,High,Offer a long-term contract with a targeted retention incentive.
+1200-TUZHR,Month-to-month,Fiber optic,8,85.2,695.75,0.845,High,Offer a long-term contract with a targeted retention incentive.
+6496-SLWHQ,Month-to-month,Fiber optic,3,105.0,294.45,0.845,High,Offer a long-term contract with a targeted retention incentive.
+1723-HKXJQ,Month-to-month,Fiber optic,42,101.75,4273.45,0.845,High,Offer a long-term contract with a targeted retention incentive.
+5383-MMTWC,Month-to-month,Fiber optic,8,84.0,613.4,0.845,High,Offer a long-term contract with a targeted retention incentive.
+8280-MQRQN,Month-to-month,DSL,1,50.45,50.45,0.845,High,Offer a long-term contract with a targeted retention incentive.
+8992-JQYUN,Month-to-month,DSL,1,50.35,50.35,0.845,High,Offer a long-term contract with a targeted retention incentive.
+1143-NMNQJ,Month-to-month,Fiber optic,2,85.7,169.8,0.845,High,Offer a long-term contract with a targeted retention incentive.
+8775-LHDJH,Month-to-month,Fiber optic,1,90.6,90.6,0.845,High,Offer a long-term contract with a targeted retention incentive.
+2660-EMUBI,Month-to-month,Fiber optic,10,95.35,898.35,0.845,High,Offer a long-term contract with a targeted retention incentive.
+7548-SEPYI,Month-to-month,Fiber optic,5,96.25,512.45,0.845,High,Offer a long-term contract with a targeted retention incentive.
+0328-GRPMV,Month-to-month,Fiber optic,1,70.1,70.1,0.8407189239332097,High,Offer a long-term contract with a targeted retention incentive.
+8305-VHZBZ,Month-to-month,No,1,20.2,20.2,0.8402548394345029,High,Offer a long-term contract with a targeted retention incentive.
+5376-DEQCP,Month-to-month,Fiber optic,1,70.6,70.6,0.8400748175483743,High,Offer a long-term contract with a targeted retention incentive.
+6513-EECDB,Month-to-month,Fiber optic,1,73.55,73.55,0.84,High,Offer a long-term contract with a targeted retention incentive.
+4342-HENTK,Month-to-month,Fiber optic,2,70.65,142.35,0.84,High,Offer a long-term contract with a targeted retention incentive.
+4695-WJZUE,Month-to-month,Fiber optic,2,88.55,179.25,0.84,High,Offer a long-term contract with a targeted retention incentive.
+0746-JTRFU,Month-to-month,DSL,2,25.05,56.35,0.84,High,Offer a long-term contract with a targeted retention incentive.
+1086-LXKFY,Month-to-month,Fiber optic,1,69.1,69.1,0.84,High,Offer a long-term contract with a targeted retention incentive.
+3320-VEOYC,Month-to-month,Fiber optic,14,95.6,1273.3,0.84,High,Offer a long-term contract with a targeted retention incentive.
+4847-TAJYI,Month-to-month,Fiber optic,6,89.35,567.8,0.84,High,Offer a long-term contract with a targeted retention incentive.
+5655-JSMZM,Month-to-month,Fiber optic,49,96.2,4718.25,0.84,High,Offer a long-term contract with a targeted retention incentive.
+7693-LCKZL,Month-to-month,Fiber optic,5,80.15,385.0,0.84,High,Offer a long-term contract with a targeted retention incentive.
+3422-LYEPQ,Month-to-month,Fiber optic,1,71.0,71.0,0.84,High,Offer a long-term contract with a targeted retention incentive.
+5835-BEQEU,Month-to-month,Fiber optic,3,76.95,228.4,0.84,High,Offer a long-term contract with a targeted retention incentive.
+8739-XNIKG,Month-to-month,Fiber optic,5,84.0,424.75,0.84,High,Offer a long-term contract with a targeted retention incentive.
+7817-BOQPW,Month-to-month,Fiber optic,2,75.55,166.3,0.84,High,Offer a long-term contract with a targeted retention incentive.
+3976-NLDEZ,Month-to-month,No,1,20.6,20.6,0.84,High,Offer a long-term contract with a targeted retention incentive.
+1941-HOSAM,Month-to-month,Fiber optic,1,90.1,90.1,0.84,High,Offer a long-term contract with a targeted retention incentive.
+2034-GDRCN,Month-to-month,Fiber optic,2,90.4,168.2,0.84,High,Offer a long-term contract with a targeted retention incentive.
+5356-RHIPP,Month-to-month,No,1,20.2,20.2,0.8356426664700126,High,Offer a long-term contract with a targeted retention incentive.
+5501-TVMGM,Month-to-month,DSL,1,55.25,55.25,0.835,High,Offer a long-term contract with a targeted retention incentive.
+8821-XNHVZ,Month-to-month,Fiber optic,1,80.05,80.05,0.835,High,Offer a long-term contract with a targeted retention incentive.
+1157-BQCUW,Month-to-month,Fiber optic,1,74.95,74.95,0.835,High,Offer a long-term contract with a targeted retention incentive.
+9399-APLBT,Month-to-month,Fiber optic,1,74.7,74.7,0.835,High,Offer a long-term contract with a targeted retention incentive.
+0616-ATFGB,Month-to-month,DSL,1,25.05,25.05,0.835,High,Offer a long-term contract with a targeted retention incentive.
+3096-GKWEB,Month-to-month,Fiber optic,18,94.75,1691.9,0.835,High,Offer a long-term contract with a targeted retention incentive.
+7943-RQCHR,Month-to-month,Fiber optic,9,94.75,889.9,0.835,High,Offer a long-term contract with a targeted retention incentive.
+2013-SGDXK,Month-to-month,Fiber optic,1,84.3,84.3,0.83,High,Offer a long-term contract with a targeted retention incentive.
+8695-ARGXZ,Month-to-month,Fiber optic,34,75.55,2425.4,0.83,High,Offer a long-term contract with a targeted retention incentive.
+9317-WZPGV,Month-to-month,Fiber optic,2,79.75,159.4,0.83,High,Offer a long-term contract with a targeted retention incentive.
+6198-ZFIOJ,Month-to-month,Fiber optic,5,75.6,402.5,0.83,High,Offer a long-term contract with a targeted retention incentive.
+9300-RENDD,Month-to-month,Fiber optic,1,79.95,79.95,0.83,High,Offer a long-term contract with a targeted retention incentive.
+2276-YDAVZ,Month-to-month,Fiber optic,3,75.1,270.7,0.83,High,Offer a long-term contract with a targeted retention incentive.
+6543-XRMYR,Month-to-month,Fiber optic,30,99.7,2967.35,0.83,High,Offer a long-term contract with a targeted retention incentive.
+7537-RBWEA,Month-to-month,DSL,1,25.15,25.15,0.83,High,Offer a long-term contract with a targeted retention incentive.
+3050-GBUSH,Month-to-month,DSL,3,34.8,113.95,0.83,High,Offer a long-term contract with a targeted retention incentive.
+6960-HVYXR,Month-to-month,Fiber optic,1,76.0,76.0,0.83,High,Offer a long-term contract with a targeted retention incentive.
+8042-JVNFH,Month-to-month,Fiber optic,1,71.35,71.35,0.8268097486928656,High,Offer a long-term contract with a targeted retention incentive.
+6702-OHFWR,Month-to-month,DSL,1,43.3,43.3,0.825,High,Offer a long-term contract with a targeted retention incentive.
+7233-DRTRF,Month-to-month,Fiber optic,63,102.4,6444.05,0.825,High,Offer a long-term contract with a targeted retention incentive.
+9600-NAXZN,Month-to-month,Fiber optic,43,101.4,4528.0,0.825,High,Offer a long-term contract with a targeted retention incentive.
+7341-LXCAF,Month-to-month,Fiber optic,4,74.65,301.4,0.825,High,Offer a long-term contract with a targeted retention incentive.
+8622-ZLFKO,Month-to-month,Fiber optic,6,90.75,512.25,0.825,High,Offer a long-term contract with a targeted retention incentive.
+7594-RQHXR,Month-to-month,Fiber optic,1,79.6,79.6,0.825,High,Offer a long-term contract with a targeted retention incentive.
+6457-USBER,Month-to-month,Fiber optic,1,80.8,80.8,0.825,High,Offer a long-term contract with a targeted retention incentive.
+1628-BIZYP,Month-to-month,Fiber optic,1,85.0,85.0,0.825,High,Offer a long-term contract with a targeted retention incentive.
+6140-QNRQQ,Month-to-month,Fiber optic,1,71.55,71.55,0.825,High,Offer a long-term contract with a targeted retention incentive.
+2656-FMOKZ,Month-to-month,Fiber optic,15,74.45,1145.7,0.825,High,Offer a long-term contract with a targeted retention incentive.
+0637-KVDLV,Month-to-month,Fiber optic,2,76.5,162.45,0.825,High,Offer a long-term contract with a targeted retention incentive.
+4210-QFJMF,Month-to-month,Fiber optic,4,79.15,317.25,0.825,High,Offer a long-term contract with a targeted retention incentive.
+1240-KNSEZ,Month-to-month,No,1,20.1,20.1,0.825,High,Offer a long-term contract with a targeted retention incentive.
+2454-RPBRZ,Month-to-month,Fiber optic,12,98.1,1060.2,0.825,High,Offer a long-term contract with a targeted retention incentive.
+6298-QDFNH,Month-to-month,Fiber optic,22,79.35,1730.35,0.825,High,Offer a long-term contract with a targeted retention incentive.
+5442-BHQNG,Month-to-month,Fiber optic,2,70.35,139.25,0.825,High,Offer a long-term contract with a targeted retention incentive.
+1925-TIBLE,Month-to-month,Fiber optic,7,86.5,582.5,0.825,High,Offer a long-term contract with a targeted retention incentive.
+9747-DDZOS,Month-to-month,Fiber optic,1,73.5,73.5,0.8215818697855761,High,Offer a long-term contract with a targeted retention incentive.
+8000-REIQB,Month-to-month,Fiber optic,1,69.95,69.95,0.8209603384153726,High,Offer a long-term contract with a targeted retention incentive.
+4927-WWOOZ,Month-to-month,Fiber optic,2,91.45,171.45,0.82,High,Offer a long-term contract with a targeted retention incentive.
+5167-ZFFMM,Month-to-month,Fiber optic,1,90.85,90.85,0.82,High,Offer a long-term contract with a targeted retention incentive.
+2645-QTLMB,Month-to-month,Fiber optic,7,94.25,669.0,0.82,High,Offer a long-term contract with a targeted retention incentive.
+3518-PZXZQ,Month-to-month,DSL,1,55.3,55.3,0.82,High,Offer a long-term contract with a targeted retention incentive.
+2642-DTVCO,Month-to-month,Fiber optic,9,85.05,746.5,0.82,High,Offer a long-term contract with a targeted retention incentive.
+5995-SNNEW,Month-to-month,Fiber optic,23,104.45,2184.85,0.82,High,Offer a long-term contract with a targeted retention incentive.
+3295-YVUSR,Month-to-month,Fiber optic,2,72.6,154.3,0.82,High,Offer a long-term contract with a targeted retention incentive.
+7153-OANIO,Month-to-month,Fiber optic,1,69.95,69.95,0.8197394014768418,High,Offer a long-term contract with a targeted retention incentive.
+5244-IRFIH,Month-to-month,Fiber optic,33,94.5,3105.55,0.815,High,Offer a long-term contract with a targeted retention incentive.
+8098-LLAZX,Month-to-month,Fiber optic,4,95.45,396.1,0.815,High,Offer a long-term contract with a targeted retention incentive.
+3585-ISXZP,Month-to-month,Fiber optic,8,95.65,778.1,0.815,High,Offer a long-term contract with a targeted retention incentive.
+7278-CKDNC,Month-to-month,Fiber optic,24,80.5,2088.45,0.815,High,Offer a long-term contract with a targeted retention incentive.
+2876-VBBBL,Month-to-month,No,1,20.25,20.25,0.815,High,Offer a long-term contract with a targeted retention incentive.
+0670-KDOMA,Month-to-month,No,1,20.25,20.25,0.815,High,Offer a long-term contract with a targeted retention incentive.
+7892-POOKP,Month-to-month,Fiber optic,28,104.8,3046.05,0.815,High,Offer a long-term contract with a targeted retention incentive.
+4445-ZJNMU,Month-to-month,Fiber optic,9,99.3,918.75,0.815,High,Offer a long-term contract with a targeted retention incentive.
+3902-FOIGH,Month-to-month,Fiber optic,12,101.35,1218.55,0.815,High,Offer a long-term contract with a targeted retention incentive.
+4132-KALRO,Month-to-month,Fiber optic,4,100.85,399.25,0.815,High,Offer a long-term contract with a targeted retention incentive.
+8775-ERLNB,Month-to-month,Fiber optic,1,74.3,74.3,0.815,High,Offer a long-term contract with a targeted retention incentive.
+7028-DVOIQ,Month-to-month,Fiber optic,35,99.05,3395.8,0.815,High,Offer a long-term contract with a targeted retention incentive.
+1496-GGSUK,Month-to-month,DSL,1,25.7,25.7,0.815,High,Offer a long-term contract with a targeted retention incentive.
+3389-YGYAI,Month-to-month,Fiber optic,8,105.5,829.55,0.815,High,Offer a long-term contract with a targeted retention incentive.
+0235-KGSLC,Month-to-month,Fiber optic,1,85.55,85.55,0.815,High,Offer a long-term contract with a targeted retention incentive.
+1195-OIYEJ,Month-to-month,Fiber optic,13,91.1,1135.7,0.815,High,Offer a long-term contract with a targeted retention incentive.
+0067-DKWBL,Month-to-month,DSL,2,49.25,91.1,0.815,High,Offer a long-term contract with a targeted retention incentive.
+7384-GHBPI,Month-to-month,DSL,3,35.15,99.75,0.815,High,Offer a long-term contract with a targeted retention incentive.
+7839-QRKXN,Month-to-month,No,1,20.2,20.2,0.8123690619753513,High,Offer a long-term contract with a targeted retention incentive.
+3519-ZKXGG,Month-to-month,Fiber optic,3,75.85,256.6,0.81,High,Offer a long-term contract with a targeted retention incentive.
+9451-LPGOO,Month-to-month,Fiber optic,7,86.8,620.35,0.81,High,Offer a long-term contract with a targeted retention incentive.
+6127-IYJOZ,Month-to-month,DSL,1,45.85,45.85,0.81,High,Offer a long-term contract with a targeted retention incentive.
+5552-ZNFSJ,Month-to-month,DSL,1,45.3,45.3,0.81,High,Offer a long-term contract with a targeted retention incentive.
+1740-CSDJP,Month-to-month,DSL,1,35.25,35.25,0.81,High,Offer a long-term contract with a targeted retention incentive.
+9094-AZPHK,Month-to-month,Fiber optic,15,100.15,1415.0,0.81,High,Offer a long-term contract with a targeted retention incentive.
+2737-WFVYW,Month-to-month,DSL,2,45.25,85.5,0.81,High,Offer a long-term contract with a targeted retention incentive.
+2103-ZRXFN,Month-to-month,DSL,1,50.75,50.75,0.81,High,Offer a long-term contract with a targeted retention incentive.
+2920-RNCEZ,Month-to-month,Fiber optic,1,69.95,69.95,0.81,High,Offer a long-term contract with a targeted retention incentive.
+1268-ASBGA,Month-to-month,Fiber optic,16,85.35,1375.15,0.81,High,Offer a long-term contract with a targeted retention incentive.
+8414-MYSHR,Month-to-month,Fiber optic,5,91.4,449.75,0.81,High,Offer a long-term contract with a targeted retention incentive.
+7480-QNVZJ,Month-to-month,Fiber optic,50,95.7,4816.7,0.81,High,Offer a long-term contract with a targeted retention incentive.
+1197-BVMVG,Month-to-month,Fiber optic,4,74.45,294.45,0.81,High,Offer a long-term contract with a targeted retention incentive.
+3494-JCHRQ,Month-to-month,Fiber optic,1,70.05,70.05,0.8083047095690872,High,Offer a long-term contract with a targeted retention incentive.
+0655-RBDUG,Month-to-month,Fiber optic,7,98.05,713.0,0.805,High,Offer a long-term contract with a targeted retention incentive.
+0196-VULGZ,Month-to-month,Fiber optic,6,84.35,474.9,0.805,High,Offer a long-term contract with a targeted retention incentive.
+3384-CTMSF,Month-to-month,Fiber optic,47,104.1,5135.15,0.805,High,Offer a long-term contract with a targeted retention incentive.
+7932-WPTDS,Month-to-month,DSL,1,24.8,24.8,0.805,High,Offer a long-term contract with a targeted retention incentive.
+8357-EQXFO,Month-to-month,Fiber optic,7,95.35,660.9,0.805,High,Offer a long-term contract with a targeted retention incentive.
+6941-PMGEP,Month-to-month,Fiber optic,5,80.0,412.5,0.805,High,Offer a long-term contract with a targeted retention incentive.
+7823-JSOAG,Month-to-month,Fiber optic,3,74.5,217.45,0.805,High,Offer a long-term contract with a targeted retention incentive.
+2737-YNGYW,Month-to-month,Fiber optic,2,80.55,184.1,0.805,High,Offer a long-term contract with a targeted retention incentive.
+2485-ITVKB,Month-to-month,DSL,2,35.1,68.75,0.805,High,Offer a long-term contract with a targeted retention incentive.
+7760-OYPDY,Month-to-month,Fiber optic,2,80.65,144.15,0.805,High,Offer a long-term contract with a targeted retention incentive.
+3049-SOLAY,Month-to-month,Fiber optic,3,95.2,292.85,0.805,High,Offer a long-term contract with a targeted retention incentive.
+5937-EORGB,Month-to-month,Fiber optic,15,96.5,1392.25,0.805,High,Offer a long-term contract with a targeted retention incentive.
+8245-UMPYT,Month-to-month,Fiber optic,16,96.4,1581.2,0.805,High,Offer a long-term contract with a targeted retention incentive.
+4367-NHWMM,Month-to-month,DSL,1,24.9,24.9,0.805,High,Offer a long-term contract with a targeted retention incentive.
+8709-KRDVL,Month-to-month,Fiber optic,33,100.0,3320.6,0.805,High,Offer a long-term contract with a targeted retention incentive.
+1934-SJVJK,Month-to-month,No,1,20.15,20.15,0.800452257616237,High,Offer a long-term contract with a targeted retention incentive.
+1066-JKSGK,Month-to-month,No,1,20.15,20.15,0.800452257616237,High,Offer a long-term contract with a targeted retention incentive.
+3677-IYRBF,Month-to-month,DSL,2,30.4,78.65,0.8,High,Offer a long-term contract with a targeted retention incentive.
+7493-TPUWZ,Month-to-month,Fiber optic,1,79.15,79.15,0.8,High,Offer a long-term contract with a targeted retention incentive.
+4678-DVQEO,Month-to-month,DSL,1,52.2,52.2,0.8,High,Offer a long-term contract with a targeted retention incentive.
+0661-XEYAN,Month-to-month,DSL,1,25.8,25.8,0.8,High,Offer a long-term contract with a targeted retention incentive.
+7571-YXDAD,Month-to-month,Fiber optic,2,74.9,147.15,0.8,High,Offer a long-term contract with a targeted retention incentive.
+2672-HUYVI,Month-to-month,Fiber optic,6,91.1,455.3,0.8,High,Offer a long-term contract with a targeted retention incentive.
+4236-UJPWO,Month-to-month,DSL,2,24.5,46.4,0.8,High,Offer a long-term contract with a targeted retention incentive.
+0722-SVSFK,Month-to-month,Fiber optic,7,100.4,715.0,0.8,High,Offer a long-term contract with a targeted retention incentive.
+2856-HYAPG,Month-to-month,Fiber optic,1,68.65,68.65,0.8,High,Offer a long-term contract with a targeted retention incentive.
+4735-ASGMA,Month-to-month,Fiber optic,26,98.35,2515.3,0.8,High,Offer a long-term contract with a targeted retention incentive.
+3871-IKPYH,Month-to-month,Fiber optic,1,69.1,69.1,0.8,High,Offer a long-term contract with a targeted retention incentive.
+3177-LASXD,Month-to-month,Fiber optic,1,71.35,71.35,0.795872467962168,High,Offer a long-term contract with a targeted retention incentive.
+1393-IMKZG,Month-to-month,Fiber optic,1,95.85,95.85,0.795,High,Offer a long-term contract with a targeted retention incentive.
+5117-IFGPS,Month-to-month,Fiber optic,29,84.3,2357.75,0.795,High,Offer a long-term contract with a targeted retention incentive.
+0021-IKXGC,Month-to-month,Fiber optic,1,72.1,72.1,0.795,High,Offer a long-term contract with a targeted retention incentive.
+2982-VPSGI,Month-to-month,Fiber optic,11,94.0,1078.9,0.795,High,Offer a long-term contract with a targeted retention incentive.
+2831-EBWRN,Month-to-month,DSL,4,45.9,199.75,0.795,High,Offer a long-term contract with a targeted retention incentive.
+2058-DCJBE,Month-to-month,Fiber optic,5,69.75,324.6,0.795,High,Offer a long-term contract with a targeted retention incentive.
+6646-VRFOL,Month-to-month,Fiber optic,53,103.85,5485.5,0.795,High,Offer a long-term contract with a targeted retention incentive.
+3178-FESZO,Month-to-month,Fiber optic,1,100.25,100.25,0.795,High,Offer a long-term contract with a targeted retention incentive.
+5919-TMRGD,Month-to-month,Fiber optic,1,79.35,79.35,0.795,High,Offer a long-term contract with a targeted retention incentive.
+2516-VQRRV,Month-to-month,Fiber optic,2,75.45,158.4,0.795,High,Offer a long-term contract with a targeted retention incentive.
+9050-IKDZA,Month-to-month,Fiber optic,2,81.5,162.55,0.7939417913888153,High,Offer a long-term contract with a targeted retention incentive.
+5519-NPHVG,Month-to-month,Fiber optic,12,94.2,1046.1,0.79,High,Offer a long-term contract with a targeted retention incentive.
+9444-JTXHZ,Month-to-month,Fiber optic,1,76.2,76.2,0.79,High,Offer a long-term contract with a targeted retention incentive.
+0082-LDZUE,Month-to-month,DSL,1,44.3,44.3,0.79,High,Offer a long-term contract with a targeted retention incentive.
+4512-ZUIYL,Month-to-month,Fiber optic,2,70.0,153.05,0.7882432432432432,High,Offer a long-term contract with a targeted retention incentive.
+6086-ESGRL,Month-to-month,Fiber optic,1,80.15,80.15,0.78713806931154,High,Offer a long-term contract with a targeted retention incentive.
+4929-XIHVW,Month-to-month,Fiber optic,2,95.5,181.65,0.785,High,Offer a long-term contract with a targeted retention incentive.
+0219-YTZUE,Month-to-month,Fiber optic,4,84.8,371.9,0.785,High,Offer a long-term contract with a targeted retention incentive.
+5380-AFSSK,Month-to-month,Fiber optic,5,93.9,486.85,0.785,High,Offer a long-term contract with a targeted retention incentive.
+1963-SVUCV,Month-to-month,DSL,1,45.3,45.3,0.785,High,Offer a long-term contract with a targeted retention incentive.
+1589-AGTLK,Month-to-month,DSL,3,45.35,141.5,0.785,High,Offer a long-term contract with a targeted retention incentive.
+7903-CMPEY,Month-to-month,Fiber optic,1,80.3,80.3,0.785,High,Offer a long-term contract with a targeted retention incentive.
+7952-OBOYL,Month-to-month,Fiber optic,3,89.85,244.45,0.785,High,Offer a long-term contract with a targeted retention incentive.
+4822-NGOCH,Month-to-month,Fiber optic,13,84.45,1058.6,0.785,High,Offer a long-term contract with a targeted retention incentive.
+9878-TNQGW,Month-to-month,Fiber optic,2,80.95,171.15,0.785,High,Offer a long-term contract with a targeted retention incentive.
+1724-BQUHA,Month-to-month,Fiber optic,5,89.5,477.7,0.785,High,Offer a long-term contract with a targeted retention incentive.
+9743-DQKQW,Month-to-month,DSL,3,25.1,79.8,0.785,High,Offer a long-term contract with a targeted retention incentive.
+1173-XZPYF,Month-to-month,Fiber optic,11,89.2,990.3,0.785,High,Offer a long-term contract with a targeted retention incentive.
+0564-JJHGS,Month-to-month,Fiber optic,9,95.5,829.1,0.785,High,Offer a long-term contract with a targeted retention incentive.
+5624-BQSSA,Month-to-month,No,1,20.95,20.95,0.7836732339368122,High,Offer a long-term contract with a targeted retention incentive.
+3338-CVVEH,Month-to-month,Fiber optic,12,94.55,1173.55,0.78,High,Offer a long-term contract with a targeted retention incentive.
+6630-UJZMY,Month-to-month,Fiber optic,4,83.25,308.05,0.78,High,Offer a long-term contract with a targeted retention incentive.
+4274-OWWYO,Month-to-month,Fiber optic,1,74.35,74.35,0.78,High,Offer a long-term contract with a targeted retention incentive.
+0871-URUWO,Month-to-month,Fiber optic,13,102.25,1359.0,0.78,High,Offer a long-term contract with a targeted retention incentive.
+6023-YEBUP,Month-to-month,Fiber optic,3,100.95,329.95,0.78,High,Offer a long-term contract with a targeted retention incentive.
+7568-PODML,Month-to-month,DSL,1,45.3,45.3,0.7773469387755102,High,Offer a long-term contract with a targeted retention incentive.
+0685-MLYYM,Month-to-month,Fiber optic,2,70.75,154.85,0.775,High,Offer a long-term contract with a targeted retention incentive.
+2081-VEYEH,Month-to-month,Fiber optic,3,107.95,318.6,0.775,High,Offer a long-term contract with a targeted retention incentive.
+0404-SWRVG,Month-to-month,Fiber optic,3,74.4,229.55,0.775,High,Offer a long-term contract with a targeted retention incentive.
+6137-NICCO,Month-to-month,Fiber optic,6,94.05,518.75,0.775,High,Offer a long-term contract with a targeted retention incentive.
+7495-OOKFY,Month-to-month,Fiber optic,8,80.65,633.3,0.775,High,Offer a long-term contract with a targeted retention incentive.
+7825-GKXMW,Month-to-month,DSL,1,45.8,45.8,0.775,High,Offer a long-term contract with a targeted retention incentive.
+8313-NDOIA,Month-to-month,Fiber optic,24,104.15,2494.65,0.775,High,Offer a long-term contract with a targeted retention incentive.
+1501-SGHBW,Month-to-month,DSL,2,45.85,81.0,0.775,High,Offer a long-term contract with a targeted retention incentive.
+5968-VXZLG,Month-to-month,DSL,2,46.6,87.9,0.775,High,Offer a long-term contract with a targeted retention incentive.
+4795-KTRTH,Month-to-month,Fiber optic,5,81.0,371.65,0.775,High,Offer a long-term contract with a targeted retention incentive.
+8752-STIVR,Month-to-month,Fiber optic,4,79.0,303.15,0.775,High,Offer a long-term contract with a targeted retention incentive.
+9231-ZJYAM,Month-to-month,Fiber optic,4,78.85,292.8,0.775,High,Offer a long-term contract with a targeted retention incentive.
+8875-AKBYH,Month-to-month,Fiber optic,20,84.35,1745.2,0.775,High,Offer a long-term contract with a targeted retention incentive.
+8634-MPHTR,Month-to-month,Fiber optic,47,100.05,4871.05,0.775,High,Offer a long-term contract with a targeted retention incentive.
+2865-TCHJW,Month-to-month,Fiber optic,4,89.2,346.2,0.775,High,Offer a long-term contract with a targeted retention incentive.
+7398-SKNQZ,Month-to-month,Fiber optic,3,94.9,273.2,0.775,High,Offer a long-term contract with a targeted retention incentive.
+2672-DZUOY,Month-to-month,DSL,1,25.15,25.15,0.77,High,Offer a long-term contract with a targeted retention incentive.
+3722-WPXTK,Month-to-month,Fiber optic,1,88.35,88.35,0.77,High,Offer a long-term contract with a targeted retention incentive.
+9957-YODKZ,Month-to-month,Fiber optic,6,80.8,457.1,0.77,High,Offer a long-term contract with a targeted retention incentive.
+6350-XFYGW,Month-to-month,Fiber optic,4,94.75,422.4,0.77,High,Offer a long-term contract with a targeted retention incentive.
+2439-LYPMQ,Month-to-month,Fiber optic,38,102.6,4009.2,0.77,High,Offer a long-term contract with a targeted retention incentive.
+7273-TEFQD,Month-to-month,DSL,3,41.15,132.2,0.77,High,Offer a long-term contract with a targeted retention incentive.
+2984-AFWNC,Month-to-month,Fiber optic,3,95.4,293.15,0.77,High,Offer a long-term contract with a targeted retention incentive.
+5583-SXDAG,Month-to-month,Fiber optic,1,70.0,70.0,0.77,High,Offer a long-term contract with a targeted retention incentive.
+4548-SDBKE,Month-to-month,Fiber optic,5,85.2,474.8,0.77,High,Offer a long-term contract with a targeted retention incentive.
+3797-VTIDR,Month-to-month,DSL,1,23.45,23.45,0.77,High,Offer a long-term contract with a targeted retention incentive.
+6986-IXNDM,Month-to-month,Fiber optic,14,92.9,1337.45,0.77,High,Offer a long-term contract with a targeted retention incentive.
+6275-YDUVO,Month-to-month,Fiber optic,2,86.2,178.7,0.77,High,Offer a long-term contract with a targeted retention incentive.
+2612-RRIDN,Month-to-month,Fiber optic,4,81.0,340.85,0.77,High,Offer a long-term contract with a targeted retention incentive.
+9828-AOQLM,Month-to-month,DSL,1,45.7,45.7,0.7694626940770558,High,Offer a long-term contract with a targeted retention incentive.
+3566-HJGPK,Month-to-month,DSL,1,45.55,45.55,0.768012857810389,High,Offer a long-term contract with a targeted retention incentive.
+8393-JMVMB,Month-to-month,No,1,19.45,19.45,0.7662807959233036,High,Offer a long-term contract with a targeted retention incentive.
+3841-CONLJ,Month-to-month,DSL,1,35.0,35.0,0.765,High,Offer a long-term contract with a targeted retention incentive.
+3672-YITQD,Month-to-month,Fiber optic,36,84.1,3021.6,0.765,High,Offer a long-term contract with a targeted retention incentive.
+5956-YHHRX,Month-to-month,Fiber optic,21,104.35,2271.85,0.765,High,Offer a long-term contract with a targeted retention incentive.
+8361-LTMKD,Month-to-month,Fiber optic,4,74.4,306.6,0.765,High,Offer a long-term contract with a targeted retention incentive.
+7526-BEZQB,Month-to-month,Fiber optic,12,96.05,1148.1,0.765,High,Offer a long-term contract with a targeted retention incentive.
+2027-FECZV,Month-to-month,Fiber optic,12,106.7,1253.9,0.765,High,Offer a long-term contract with a targeted retention incentive.
+1571-SAVHK,Month-to-month,Fiber optic,12,99.95,1132.75,0.765,High,Offer a long-term contract with a targeted retention incentive.
+4115-NZRKS,Month-to-month,Fiber optic,7,89.15,574.35,0.765,High,Offer a long-term contract with a targeted retention incentive.
+8510-AWCXC,Month-to-month,Fiber optic,13,100.8,1308.1,0.765,High,Offer a long-term contract with a targeted retention incentive.
+4021-RQSNY,Month-to-month,Fiber optic,29,98.5,3004.15,0.765,High,Offer a long-term contract with a targeted retention incentive.
+5628-FCGYG,Month-to-month,Fiber optic,21,84.1,1737.45,0.765,High,Offer a long-term contract with a targeted retention incentive.
+2725-KXXWT,Month-to-month,Fiber optic,1,90.75,90.75,0.765,High,Offer a long-term contract with a targeted retention incentive.
+1579-KLYDT,Month-to-month,Fiber optic,7,90.45,593.45,0.765,High,Offer a long-term contract with a targeted retention incentive.
+6047-YHPVI,Month-to-month,Fiber optic,5,69.7,316.9,0.765,High,Offer a long-term contract with a targeted retention incentive.
+3074-GQWYX,Month-to-month,Fiber optic,5,75.9,357.75,0.765,High,Offer a long-term contract with a targeted retention incentive.
+9290-SHCMB,Month-to-month,Fiber optic,13,96.85,1235.55,0.765,High,Offer a long-term contract with a targeted retention incentive.
+4074-SJFFA,Month-to-month,DSL,1,54.75,54.75,0.7642845012765227,High,Offer a long-term contract with a targeted retention incentive.
+4815-GBTCD,Month-to-month,DSL,4,25.15,99.95,0.76,High,Offer a long-term contract with a targeted retention incentive.
+0187-QSXOE,Month-to-month,Fiber optic,7,89.0,605.45,0.76,High,Offer a long-term contract with a targeted retention incentive.
+7249-WBIYX,Month-to-month,Fiber optic,10,85.6,813.85,0.76,High,Offer a long-term contract with a targeted retention incentive.
+3162-KKZXO,One year,Fiber optic,55,100.15,5409.75,0.76,High,Prioritize service-quality review and offer a retention incentive.
+4192-GORJT,Month-to-month,Fiber optic,5,94.45,498.1,0.76,High,Offer a long-term contract with a targeted retention incentive.
+8931-GJJIQ,Month-to-month,Fiber optic,9,83.3,803.3,0.76,High,Offer a long-term contract with a targeted retention incentive.
+5567-WSELE,Month-to-month,Fiber optic,3,94.6,279.55,0.76,High,Offer a long-term contract with a targeted retention incentive.
+6892-XPFPU,Month-to-month,Fiber optic,24,104.25,2433.9,0.76,High,Offer a long-term contract with a targeted retention incentive.
+6608-QQLVK,Month-to-month,DSL,1,50.5,50.5,0.76,High,Offer a long-term contract with a targeted retention incentive.
+4587-VVTOX,Month-to-month,Fiber optic,6,105.3,545.2,0.76,High,Offer a long-term contract with a targeted retention incentive.
+9603-OAIHC,Month-to-month,Fiber optic,1,70.05,70.05,0.7575897807169596,High,Offer a long-term contract with a targeted retention incentive.
+8374-XGEJJ,Month-to-month,Fiber optic,43,101.0,4388.4,0.755,High,Offer a long-term contract with a targeted retention incentive.
+2202-CUYXZ,Month-to-month,Fiber optic,1,84.85,84.85,0.755,High,Offer a long-term contract with a targeted retention incentive.
+6108-OQZDQ,Month-to-month,Fiber optic,4,97.95,384.5,0.755,High,Offer a long-term contract with a targeted retention incentive.
+5175-AOBHI,Month-to-month,DSL,4,46.0,193.6,0.755,High,Offer a long-term contract with a targeted retention incentive.
+0702-PGIBZ,Month-to-month,Fiber optic,4,101.7,364.55,0.755,High,Offer a long-term contract with a targeted retention incentive.
+8111-RKSPX,Month-to-month,Fiber optic,4,72.2,305.55,0.755,High,Offer a long-term contract with a targeted retention incentive.
+2685-SREOM,Month-to-month,Fiber optic,25,89.1,2368.4,0.755,High,Offer a long-term contract with a targeted retention incentive.
+4112-LUEIZ,Month-to-month,Fiber optic,10,89.5,863.1,0.755,High,Offer a long-term contract with a targeted retention incentive.
+4597-NUCQV,Month-to-month,Fiber optic,24,101.25,2440.15,0.755,High,Offer a long-term contract with a targeted retention incentive.
+5698-BQJOH,Month-to-month,Fiber optic,9,94.4,857.25,0.755,High,Offer a long-term contract with a targeted retention incentive.
+1075-BGWOH,Month-to-month,Fiber optic,16,98.75,1587.55,0.755,High,Offer a long-term contract with a targeted retention incentive.
+9944-HKVVB,Month-to-month,Fiber optic,3,95.1,307.4,0.75,High,Offer a long-term contract with a targeted retention incentive.
+3643-AHCFP,Month-to-month,Fiber optic,7,95.6,644.35,0.75,High,Offer a long-term contract with a targeted retention incentive.
+5192-EBGOV,Month-to-month,Fiber optic,1,85.7,85.7,0.75,High,Offer a long-term contract with a targeted retention incentive.
+1960-UYCNN,Month-to-month,Fiber optic,10,95.25,1021.55,0.75,High,Offer a long-term contract with a targeted retention incentive.
+6618-RYATB,Month-to-month,Fiber optic,1,79.55,79.55,0.75,High,Offer a long-term contract with a targeted retention incentive.
+2386-LAHRK,Month-to-month,DSL,1,53.5,53.5,0.75,High,Offer a long-term contract with a targeted retention incentive.
+9633-XQABV,Month-to-month,Fiber optic,3,70.25,229.7,0.75,High,Offer a long-term contract with a targeted retention incentive.
+7488-MXJIV,Month-to-month,Fiber optic,4,85.65,321.65,0.75,High,Offer a long-term contract with a targeted retention incentive.
+8696-JKZNU,Month-to-month,Fiber optic,37,76.25,2841.55,0.75,High,Offer a long-term contract with a targeted retention incentive.
+5047-LHVLY,Month-to-month,DSL,1,50.15,50.15,0.75,High,Offer a long-term contract with a targeted retention incentive.
+2082-CEFLT,Month-to-month,DSL,1,45.6,45.6,0.75,High,Offer a long-term contract with a targeted retention incentive.
+4846-WHAFZ,Month-to-month,Fiber optic,37,76.5,2868.15,0.75,High,Offer a long-term contract with a targeted retention incentive.
+7377-DMMRI,Month-to-month,DSL,2,47.8,92.45,0.75,High,Offer a long-term contract with a targeted retention incentive.
+8356-WUAOJ,Month-to-month,DSL,1,45.0,45.0,0.7486732339368122,High,Offer a long-term contract with a targeted retention incentive.
+1618-CFHME,Month-to-month,Fiber optic,2,75.9,143.35,0.745,High,Offer a long-term contract with a targeted retention incentive.
+4315-MURBD,Month-to-month,Fiber optic,12,98.9,1120.95,0.745,High,Offer a long-term contract with a targeted retention incentive.
+9851-QXEEQ,Month-to-month,Fiber optic,41,104.7,4346.4,0.745,High,Offer a long-term contract with a targeted retention incentive.
+5318-IXUZF,Month-to-month,Fiber optic,2,87.15,183.75,0.745,High,Offer a long-term contract with a targeted retention incentive.
+3106-ULWFW,Month-to-month,Fiber optic,8,85.2,627.4,0.745,High,Offer a long-term contract with a targeted retention incentive.
+1309-BXVOQ,Month-to-month,Fiber optic,21,106.1,2249.95,0.745,High,Offer a long-term contract with a targeted retention incentive.
+3834-XUIFC,Month-to-month,Fiber optic,7,85.2,602.55,0.745,High,Offer a long-term contract with a targeted retention incentive.
+1624-NALOJ,Month-to-month,Fiber optic,5,89.8,502.6,0.745,High,Offer a long-term contract with a targeted retention incentive.
+5168-MSWXT,Month-to-month,Fiber optic,8,94.75,759.55,0.745,High,Offer a long-term contract with a targeted retention incentive.
+3855-ONCAR,Month-to-month,Fiber optic,4,78.9,299.75,0.745,High,Offer a long-term contract with a targeted retention incentive.
+7234-FECYN,Month-to-month,Fiber optic,8,101.35,780.5,0.745,High,Offer a long-term contract with a targeted retention incentive.
+5159-YFPKQ,Month-to-month,Fiber optic,2,75.8,160.75,0.74,High,Offer a long-term contract with a targeted retention incentive.
+4633-MKHYU,Month-to-month,Fiber optic,9,88.4,788.6,0.74,High,Offer a long-term contract with a targeted retention incentive.
+0927-CNGRH,Month-to-month,No,1,19.55,19.55,0.74,High,Offer a long-term contract with a targeted retention incentive.
+5357-TZHPP,Month-to-month,Fiber optic,9,84.4,732.5,0.74,High,Offer a long-term contract with a targeted retention incentive.
+2462-XIIJB,Month-to-month,Fiber optic,5,92.5,452.7,0.74,High,Offer a long-term contract with a targeted retention incentive.
+6407-UTSLV,Month-to-month,Fiber optic,2,83.8,163.7,0.74,High,Offer a long-term contract with a targeted retention incentive.
+3138-BKYAV,Month-to-month,Fiber optic,6,85.35,489.45,0.74,High,Offer a long-term contract with a targeted retention incentive.
+5445-UTODQ,Month-to-month,Fiber optic,7,81.1,576.65,0.74,High,Offer a long-term contract with a targeted retention incentive.
+2235-DWLJU,Month-to-month,DSL,6,44.4,263.05,0.74,High,Offer a long-term contract with a targeted retention incentive.
+2272-QAGFO,Month-to-month,Fiber optic,14,74.3,1096.25,0.74,High,Offer a long-term contract with a targeted retention incentive.
+6653-CBBOM,Month-to-month,Fiber optic,1,70.3,70.3,0.73990673391056,High,Offer a long-term contract with a targeted retention incentive.
+4145-UQXUQ,Month-to-month,Fiber optic,8,92.1,729.95,0.735,High,Offer a long-term contract with a targeted retention incentive.
+2959-MJHIC,Month-to-month,Fiber optic,4,80.35,307.4,0.735,High,Offer a long-term contract with a targeted retention incentive.
+7638-QVMVY,Month-to-month,Fiber optic,7,79.0,522.95,0.735,High,Offer a long-term contract with a targeted retention incentive.
+9617-INGJY,Month-to-month,Fiber optic,1,70.6,70.6,0.735,High,Offer a long-term contract with a targeted retention incentive.
+5959-BELXA,Month-to-month,Fiber optic,32,96.15,3019.25,0.735,High,Offer a long-term contract with a targeted retention incentive.
+7181-BQYBV,Month-to-month,Fiber optic,1,102.45,102.45,0.735,High,Offer a long-term contract with a targeted retention incentive.
+8063-RJYNF,Month-to-month,Fiber optic,16,94.25,1483.25,0.735,High,Offer a long-term contract with a targeted retention incentive.
+2378-VTKDH,Month-to-month,Fiber optic,65,104.35,6578.55,0.735,High,Offer a long-term contract with a targeted retention incentive.
+6892-EZDTG,Month-to-month,Fiber optic,4,91.65,365.4,0.735,High,Offer a long-term contract with a targeted retention incentive.
+2026-TGDHM,Month-to-month,Fiber optic,7,79.3,523.15,0.735,High,Offer a long-term contract with a targeted retention incentive.
+3217-FZDMN,Month-to-month,Fiber optic,8,94.45,742.95,0.735,High,Offer a long-term contract with a targeted retention incentive.
+7089-IVVAZ,Month-to-month,Fiber optic,8,103.35,847.3,0.735,High,Offer a long-term contract with a targeted retention incentive.
+8064-RAVOH,Month-to-month,DSL,1,49.85,49.85,0.735,High,Offer a long-term contract with a targeted retention incentive.
+7310-EGVHZ,Month-to-month,No,1,20.2,20.2,0.7344148633533635,High,Offer a long-term contract with a targeted retention incentive.
+5032-MIYKT,Month-to-month,Fiber optic,1,70.7,70.7,0.7336725820763087,High,Offer a long-term contract with a targeted retention incentive.
+7601-WFVZV,Month-to-month,No,1,19.55,19.55,0.7329087635054021,High,Offer a long-term contract with a targeted retention incentive.
+7209-JCUDS,Month-to-month,Fiber optic,10,94.9,1048.85,0.73,High,Offer a long-term contract with a targeted retention incentive.
+4195-NZGTA,Month-to-month,DSL,1,25.25,25.25,0.73,High,Offer a long-term contract with a targeted retention incentive.
+2969-QWUBZ,Month-to-month,DSL,2,51.4,96.8,0.73,High,Offer a long-term contract with a targeted retention incentive.
+3318-OSATS,Month-to-month,Fiber optic,35,95.45,3474.05,0.73,High,Offer a long-term contract with a targeted retention incentive.
+0928-JMXNP,Month-to-month,DSL,4,29.9,118.25,0.73,High,Offer a long-term contract with a targeted retention incentive.
+6143-JQKEA,Month-to-month,DSL,10,45.8,436.2,0.73,High,Offer a long-term contract with a targeted retention incentive.
+2754-SDJRD,Month-to-month,Fiber optic,8,100.15,908.55,0.73,High,Offer a long-term contract with a targeted retention incentive.
+3621-CEOVK,Month-to-month,Fiber optic,14,100.2,1369.8,0.73,High,Offer a long-term contract with a targeted retention incentive.
+2379-ENZGV,Month-to-month,Fiber optic,6,84.85,523.5,0.73,High,Offer a long-term contract with a targeted retention incentive.
+5609-CEBID,Month-to-month,Fiber optic,20,94.1,1782.4,0.73,High,Offer a long-term contract with a targeted retention incentive.
+5299-RULOA,Month-to-month,Fiber optic,10,100.25,1064.65,0.73,High,Offer a long-term contract with a targeted retention incentive.
+6996-KNSML,Month-to-month,Fiber optic,1,74.9,74.9,0.7294623733199166,High,Offer a long-term contract with a targeted retention incentive.
+5906-BFOZT,Month-to-month,No,1,19.5,19.5,0.7263786468090112,High,Offer a long-term contract with a targeted retention incentive.
+7142-HVGBG,Month-to-month,Fiber optic,43,103.0,4414.3,0.725,High,Offer a long-term contract with a targeted retention incentive.
+5692-ICXLW,Month-to-month,Fiber optic,31,90.7,2845.15,0.725,High,Offer a long-term contract with a targeted retention incentive.
+5804-LEPIM,Month-to-month,Fiber optic,2,70.35,139.05,0.725,High,Offer a long-term contract with a targeted retention incentive.
+6029-WTIPC,Month-to-month,Fiber optic,37,101.1,3744.05,0.725,High,Offer a long-term contract with a targeted retention incentive.
+7593-XFKDI,Month-to-month,DSL,1,46.3,46.3,0.725,High,Offer a long-term contract with a targeted retention incentive.
+7402-EYFXX,Month-to-month,Fiber optic,26,93.6,2404.1,0.725,High,Offer a long-term contract with a targeted retention incentive.
+4298-OYIFC,Month-to-month,Fiber optic,15,103.45,1539.8,0.725,High,Offer a long-term contract with a targeted retention incentive.
+8063-GBATB,Month-to-month,Fiber optic,27,85.25,2287.25,0.725,High,Offer a long-term contract with a targeted retention incentive.
+2845-HSJCY,Month-to-month,Fiber optic,14,87.25,1258.6,0.725,High,Offer a long-term contract with a targeted retention incentive.
+9840-EFJQB,Month-to-month,Fiber optic,1,74.35,74.35,0.725,High,Offer a long-term contract with a targeted retention incentive.
+3606-TWKGI,Month-to-month,Fiber optic,13,106.9,1364.3,0.725,High,Offer a long-term contract with a targeted retention incentive.
+3296-SILRA,Month-to-month,Fiber optic,1,76.4,76.4,0.725,High,Offer a long-term contract with a targeted retention incentive.
+2123-AGEEN,Month-to-month,Fiber optic,7,84.35,609.65,0.725,High,Offer a long-term contract with a targeted retention incentive.
+2868-SNELZ,Month-to-month,Fiber optic,2,80.6,155.8,0.725,High,Offer a long-term contract with a targeted retention incentive.
+3727-JEZTU,Month-to-month,No,1,20.4,20.4,0.7242351376240663,High,Offer a long-term contract with a targeted retention incentive.
+4813-HQMGZ,Month-to-month,Fiber optic,8,90.25,743.75,0.72,High,Offer a long-term contract with a targeted retention incentive.
+4228-ZGYUW,Month-to-month,Fiber optic,4,90.05,368.1,0.72,High,Offer a long-term contract with a targeted retention incentive.
+7250-EQKIY,Month-to-month,DSL,1,50.45,50.45,0.72,High,Offer a long-term contract with a targeted retention incentive.
+8083-YTZES,Month-to-month,Fiber optic,4,74.35,265.35,0.72,High,Offer a long-term contract with a targeted retention incentive.
+4291-HPAXL,Month-to-month,No,1,19.85,19.85,0.72,High,Offer a long-term contract with a targeted retention incentive.
+8999-BOHSE,Month-to-month,Fiber optic,11,89.7,1047.7,0.72,High,Offer a long-term contract with a targeted retention incentive.
+1915-IOFGU,Month-to-month,Fiber optic,1,70.5,70.5,0.72,High,Offer a long-term contract with a targeted retention incentive.
+6015-VVHHE,Month-to-month,Fiber optic,5,83.15,446.05,0.72,High,Offer a long-term contract with a targeted retention incentive.
+4884-ZTHVF,Month-to-month,Fiber optic,8,87.1,713.6,0.72,High,Offer a long-term contract with a targeted retention incentive.
+3793-MMFUH,Month-to-month,Fiber optic,13,95.05,1290.0,0.72,High,Offer a long-term contract with a targeted retention incentive.
+5519-YLDGW,Month-to-month,Fiber optic,21,103.9,2254.2,0.72,High,Offer a long-term contract with a targeted retention incentive.
+3376-BMGFE,Month-to-month,Fiber optic,4,70.9,273.0,0.72,High,Offer a long-term contract with a targeted retention incentive.
+7508-MYBOG,Month-to-month,Fiber optic,14,86.1,1235.55,0.72,High,Offer a long-term contract with a targeted retention incentive.
+3352-ALMCK,Month-to-month,Fiber optic,40,102.65,4108.15,0.72,High,Offer a long-term contract with a targeted retention incentive.
+6918-UMQCG,Month-to-month,Fiber optic,5,80.2,384.25,0.72,High,Offer a long-term contract with a targeted retention incentive.
+3186-BAXNB,Month-to-month,Fiber optic,1,91.7,91.7,0.72,High,Offer a long-term contract with a targeted retention incentive.
+5480-HPRRX,Month-to-month,DSL,3,25.3,77.75,0.72,High,Offer a long-term contract with a targeted retention incentive.
+6437-UKHMV,Month-to-month,Fiber optic,7,79.7,586.05,0.72,High,Offer a long-term contract with a targeted retention incentive.
+0519-XUZJU,Month-to-month,Fiber optic,1,70.75,70.75,0.7176188413621916,High,Offer a long-term contract with a targeted retention incentive.
+1051-GEJLJ,Month-to-month,No,2,19.5,27.55,0.71713806931154,High,Offer a long-term contract with a targeted retention incentive.
+4547-KQRTM,Month-to-month,Fiber optic,10,80.05,830.7,0.715,High,Offer a long-term contract with a targeted retention incentive.
+7120-RFMVS,Month-to-month,Fiber optic,1,84.5,84.5,0.715,High,Offer a long-term contract with a targeted retention incentive.
+0840-DFEZH,Month-to-month,Fiber optic,7,75.35,564.65,0.715,High,Offer a long-term contract with a targeted retention incentive.
+5419-CONWX,Month-to-month,Fiber optic,4,99.8,442.85,0.715,High,Offer a long-term contract with a targeted retention incentive.
+6005-OBZPH,Month-to-month,Fiber optic,26,89.15,2277.65,0.715,High,Offer a long-term contract with a targeted retention incentive.
+9734-YWGEX,Month-to-month,Fiber optic,9,98.3,923.5,0.715,High,Offer a long-term contract with a targeted retention incentive.
+3411-WLRSQ,Month-to-month,Fiber optic,3,74.6,239.05,0.715,High,Offer a long-term contract with a targeted retention incentive.
+5940-AHUHD,Month-to-month,Fiber optic,1,70.6,70.6,0.715,High,Offer a long-term contract with a targeted retention incentive.
+6330-JKLPC,Month-to-month,Fiber optic,11,80.5,896.9,0.71,High,Offer a long-term contract with a targeted retention incentive.
+5288-AHOUP,Month-to-month,Fiber optic,11,78.5,874.2,0.71,High,Offer a long-term contract with a targeted retention incentive.
+4289-DTDKW,Month-to-month,Fiber optic,40,101.3,4113.1,0.71,High,Offer a long-term contract with a targeted retention incentive.
+6877-TJMBR,Month-to-month,Fiber optic,1,84.8,84.8,0.71,High,Offer a long-term contract with a targeted retention incentive.
+7698-YFGEZ,Month-to-month,No,1,20.0,20.0,0.71,High,Offer a long-term contract with a targeted retention incentive.
+3211-AAPKX,Month-to-month,Fiber optic,20,98.55,2031.95,0.71,High,Offer a long-term contract with a targeted retention incentive.
+4395-PZMSN,Month-to-month,Fiber optic,5,85.55,408.5,0.71,High,Offer a long-term contract with a targeted retention incentive.
+0345-HKJVM,Month-to-month,Fiber optic,6,89.3,577.6,0.71,High,Offer a long-term contract with a targeted retention incentive.
+3703-KBKZP,Month-to-month,Fiber optic,16,74.45,1261.35,0.705,High,Offer a long-term contract with a targeted retention incentive.
+9638-JIQYA,Month-to-month,DSL,2,24.9,49.7,0.705,High,Offer a long-term contract with a targeted retention incentive.
+8676-TRMJS,Month-to-month,Fiber optic,3,75.0,209.1,0.705,High,Offer a long-term contract with a targeted retention incentive.
+7242-QZLXF,Month-to-month,DSL,1,25.3,25.3,0.705,High,Offer a long-term contract with a targeted retention incentive.
+1374-DMZUI,Month-to-month,Fiber optic,4,94.3,424.45,0.705,High,Offer a long-term contract with a targeted retention incentive.
+0306-JAELE,Month-to-month,Fiber optic,5,96.1,453.4,0.705,High,Offer a long-term contract with a targeted retention incentive.
+0680-DFNNY,Month-to-month,Fiber optic,15,101.1,1504.05,0.705,High,Offer a long-term contract with a targeted retention incentive.
+5095-AESKG,Month-to-month,Fiber optic,3,91.5,242.95,0.705,High,Offer a long-term contract with a targeted retention incentive.
+5685-IIXLY,Month-to-month,Fiber optic,5,83.6,404.2,0.705,High,Offer a long-term contract with a targeted retention incentive.
+7479-NITWS,Month-to-month,Fiber optic,7,89.35,631.85,0.705,High,Offer a long-term contract with a targeted retention incentive.
+3727-RJMEO,Month-to-month,Fiber optic,6,82.85,460.25,0.705,High,Offer a long-term contract with a targeted retention incentive.
+2077-MPJQO,Month-to-month,Fiber optic,7,75.4,533.05,0.705,High,Offer a long-term contract with a targeted retention incentive.
+7938-OUHIO,Month-to-month,Fiber optic,3,98.7,293.65,0.705,High,Offer a long-term contract with a targeted retention incentive.
+6680-WKXRZ,Month-to-month,Fiber optic,3,74.4,215.8,0.705,High,Offer a long-term contract with a targeted retention incentive.
+0094-OIFMO,Month-to-month,Fiber optic,11,95.0,1120.3,0.705,High,Offer a long-term contract with a targeted retention incentive.
+7295-JOMMD,Month-to-month,Fiber optic,4,98.1,396.3,0.705,High,Offer a long-term contract with a targeted retention incentive.
+5052-PNLOS,Month-to-month,Fiber optic,3,105.35,323.25,0.705,High,Offer a long-term contract with a targeted retention incentive.
+6110-OHIHY,Month-to-month,Fiber optic,3,79.25,267.6,0.705,High,Offer a long-term contract with a targeted retention incentive.
+4236-XPXAV,Month-to-month,Fiber optic,5,99.15,465.05,0.705,High,Offer a long-term contract with a targeted retention incentive.
+5364-EVNIB,Month-to-month,Fiber optic,13,79.8,973.45,0.7,High,Offer a long-term contract with a targeted retention incentive.
+1024-GUALD,Month-to-month,DSL,1,24.8,24.8,0.7,High,Offer a long-term contract with a targeted retention incentive.
+4059-IIEBK,Month-to-month,Fiber optic,7,78.55,522.95,0.7,High,Offer a long-term contract with a targeted retention incentive.
+7858-GTZSP,Month-to-month,Fiber optic,12,86.55,1066.9,0.7,High,Offer a long-term contract with a targeted retention incentive.
+2674-MIAHT,Month-to-month,Fiber optic,4,80.3,324.2,0.7,High,Offer a long-term contract with a targeted retention incentive.
+9631-XEYKE,Month-to-month,DSL,3,50.4,137.25,0.7,High,Offer a long-term contract with a targeted retention incentive.
+6128-CZOMY,Month-to-month,DSL,1,45.65,45.65,0.7,High,Offer a long-term contract with a targeted retention incentive.
+1536-HBSWP,Month-to-month,DSL,1,49.9,49.9,0.7,High,Offer a long-term contract with a targeted retention incentive.
+5834-ASPWA,Month-to-month,Fiber optic,1,75.45,75.45,0.7,High,Offer a long-term contract with a targeted retention incentive.
+2880-FPNAE,Month-to-month,Fiber optic,2,74.2,140.1,0.7,High,Offer a long-term contract with a targeted retention incentive.
+1731-TVIUK,Month-to-month,Fiber optic,4,93.5,362.2,0.7,High,Offer a long-term contract with a targeted retention incentive.
+8443-ZRDBZ,Month-to-month,Fiber optic,4,76.05,318.9,0.7,High,Offer a long-term contract with a targeted retention incentive.
+1062-LHZOD,Month-to-month,Fiber optic,1,69.9,69.9,0.6976745591331708,High,Offer a long-term contract with a targeted retention incentive.
+4749-VFKVB,Month-to-month,DSL,1,50.1,50.1,0.6972900272585986,High,Offer a long-term contract with a targeted retention incentive.
+8051-HJRLT,Month-to-month,Fiber optic,1,70.55,70.55,0.6958113032483522,High,Offer a long-term contract with a targeted retention incentive.
+4706-AXVKM,Month-to-month,Fiber optic,11,84.8,906.85,0.695,High,Offer a long-term contract with a targeted retention incentive.
+8010-EZLOU,Month-to-month,Fiber optic,15,80.2,1217.25,0.695,High,Offer a long-term contract with a targeted retention incentive.
+4713-LZDRV,Month-to-month,Fiber optic,2,79.6,195.05,0.695,High,Offer a long-term contract with a targeted retention incentive.
+3001-UNBTL,Month-to-month,Fiber optic,29,103.95,2964.8,0.695,High,Offer a long-term contract with a targeted retention incentive.
+6979-ZNSFF,Month-to-month,Fiber optic,8,87.05,762.1,0.695,High,Offer a long-term contract with a targeted retention incentive.
+7326-RIGQZ,Month-to-month,Fiber optic,6,69.8,377.85,0.695,High,Offer a long-term contract with a targeted retention incentive.
+7394-FKDNK,Month-to-month,Fiber optic,9,89.45,853.1,0.695,High,Offer a long-term contract with a targeted retention incentive.
+8337-UPOAQ,Month-to-month,Fiber optic,10,89.8,914.3,0.695,High,Offer a long-term contract with a targeted retention incentive.
+7854-FOKSF,Month-to-month,DSL,1,35.9,35.9,0.695,High,Offer a long-term contract with a targeted retention incentive.
+9840-DVNDC,Month-to-month,Fiber optic,6,80.5,463.05,0.695,High,Offer a long-term contract with a targeted retention incentive.
+1565-RHDJD,Month-to-month,Fiber optic,4,84.05,333.55,0.69,High,Offer a long-term contract with a targeted retention incentive.
+5879-SESNB,Month-to-month,Fiber optic,11,75.25,888.65,0.69,High,Offer a long-term contract with a targeted retention incentive.
+2074-GKOWZ,Month-to-month,Fiber optic,2,89.55,185.55,0.69,High,Offer a long-term contract with a targeted retention incentive.
+6166-ILMNY,Month-to-month,Fiber optic,2,69.75,144.55,0.69,High,Offer a long-term contract with a targeted retention incentive.
+8922-LIEGH,Month-to-month,Fiber optic,25,89.7,2187.55,0.69,High,Offer a long-term contract with a targeted retention incentive.
+5565-FILXA,Month-to-month,Fiber optic,16,96.15,1529.2,0.69,High,Offer a long-term contract with a targeted retention incentive.
+7587-RZNME,Month-to-month,DSL,3,43.3,123.65,0.69,High,Offer a long-term contract with a targeted retention incentive.
+1342-JPNKI,Month-to-month,Fiber optic,10,86.05,834.1,0.69,High,Offer a long-term contract with a targeted retention incentive.
+6185-TASNN,Month-to-month,DSL,1,46.3,46.3,0.69,High,Offer a long-term contract with a targeted retention incentive.
+1448-PWKYE,Month-to-month,Fiber optic,1,80.0,80.0,0.69,High,Offer a long-term contract with a targeted retention incentive.
+4351-QLCSU,Month-to-month,DSL,1,55.0,55.0,0.69,High,Offer a long-term contract with a targeted retention incentive.
+6856-RAURS,Month-to-month,Fiber optic,2,74.9,136.05,0.6892352941176471,High,Offer a long-term contract with a targeted retention incentive.
+8714-CTZJW,Month-to-month,Fiber optic,4,82.85,319.6,0.685,High,Offer a long-term contract with a targeted retention incentive.
+6683-VLCTZ,Month-to-month,Fiber optic,20,98.55,1842.8,0.685,High,Offer a long-term contract with a targeted retention incentive.
+0376-YMCJC,Month-to-month,Fiber optic,23,90.6,1943.2,0.685,High,Offer a long-term contract with a targeted retention incentive.
+1977-STDKI,Month-to-month,Fiber optic,1,73.0,73.0,0.685,High,Offer a long-term contract with a targeted retention incentive.
+6851-WEFYX,Month-to-month,Fiber optic,35,100.8,3437.5,0.685,High,Offer a long-term contract with a targeted retention incentive.
+8382-SHQEH,Month-to-month,Fiber optic,8,84.9,764.95,0.685,High,Offer a long-term contract with a targeted retention incentive.
+4634-JLRJT,Month-to-month,No,1,20.35,20.35,0.685,High,Offer a long-term contract with a targeted retention incentive.
+1866-RZZQS,Month-to-month,Fiber optic,41,98.4,4187.75,0.685,High,Offer a long-term contract with a targeted retention incentive.
+2154-KVJFF,Month-to-month,Fiber optic,15,79.75,1111.85,0.685,High,Offer a long-term contract with a targeted retention incentive.
+0684-AOSIH,Month-to-month,Fiber optic,1,95.0,95.0,0.685,High,Offer a long-term contract with a targeted retention incentive.
+6260-ONULR,Month-to-month,DSL,1,62.8,62.8,0.685,High,Offer a long-term contract with a targeted retention incentive.
+1833-TCXKK,Month-to-month,Fiber optic,45,107.75,4882.8,0.685,High,Offer a long-term contract with a targeted retention incentive.
+0220-EBGCE,Month-to-month,Fiber optic,2,85.85,167.3,0.685,High,Offer a long-term contract with a targeted retention incentive.
+1867-BDVFH,Month-to-month,Fiber optic,11,74.35,834.2,0.685,High,Offer a long-term contract with a targeted retention incentive.
+9692-TUSXH,Month-to-month,Fiber optic,18,96.05,1740.7,0.685,High,Offer a long-term contract with a targeted retention incentive.
+1666-JXLKU,Month-to-month,Fiber optic,37,100.05,3810.55,0.685,High,Offer a long-term contract with a targeted retention incentive.
+9804-ICWBG,Month-to-month,Fiber optic,1,69.9,69.9,0.6807415899559487,High,Offer a long-term contract with a targeted retention incentive.
+5561-NWEVX,Month-to-month,Fiber optic,2,79.2,172.85,0.68,High,Offer a long-term contract with a targeted retention incentive.
+9185-TQCVP,Month-to-month,Fiber optic,14,85.15,1139.2,0.68,High,Offer a long-term contract with a targeted retention incentive.
+3422-GALYP,Month-to-month,Fiber optic,2,79.45,145.15,0.68,High,Offer a long-term contract with a targeted retention incentive.
+7228-OMTPN,Month-to-month,Fiber optic,4,88.45,370.65,0.68,High,Offer a long-term contract with a targeted retention incentive.
+5712-PTIWW,Month-to-month,Fiber optic,2,79.85,152.45,0.68,High,Offer a long-term contract with a targeted retention incentive.
+7198-GLXTC,Month-to-month,Fiber optic,2,79.0,143.65,0.68,High,Offer a long-term contract with a targeted retention incentive.
+0141-YEAYS,Month-to-month,Fiber optic,27,86.45,2401.05,0.68,High,Offer a long-term contract with a targeted retention incentive.
+9647-ERGBE,Month-to-month,Fiber optic,30,100.05,3046.15,0.68,High,Offer a long-term contract with a targeted retention incentive.
+8203-XJZRC,Month-to-month,No,1,20.25,20.25,0.6760301767554673,High,Offer a long-term contract with a targeted retention incentive.
+5875-YPQFJ,Month-to-month,Fiber optic,1,69.9,69.9,0.6755518244793203,High,Offer a long-term contract with a targeted retention incentive.
+4661-NJEUX,Month-to-month,No,1,20.05,20.05,0.6752493995610981,High,Offer a long-term contract with a targeted retention incentive.
+7005-CCBKV,Month-to-month,Fiber optic,6,84.4,556.35,0.675,High,Offer a long-term contract with a targeted retention incentive.
+1213-NGCUN,Month-to-month,DSL,6,49.65,267.35,0.675,High,Offer a long-term contract with a targeted retention incentive.
+4727-MCYZG,Month-to-month,DSL,1,55.55,55.55,0.675,High,Offer a long-term contract with a targeted retention incentive.
+3577-AMVUX,Month-to-month,DSL,1,55.05,55.05,0.675,High,Offer a long-term contract with a targeted retention incentive.
+4948-WBBKL,Month-to-month,Fiber optic,36,74.9,2659.45,0.675,High,Offer a long-term contract with a targeted retention incentive.
+8364-TRMMK,Month-to-month,DSL,3,50.65,151.3,0.675,High,Offer a long-term contract with a targeted retention incentive.
+4290-BSXUX,Month-to-month,Fiber optic,3,79.65,251.75,0.675,High,Offer a long-term contract with a targeted retention incentive.
+6772-KSATR,Month-to-month,Fiber optic,1,81.7,81.7,0.675,High,Offer a long-term contract with a targeted retention incentive.
+5294-DMSFH,Month-to-month,Fiber optic,29,87.8,2621.75,0.675,High,Offer a long-term contract with a targeted retention incentive.
+0334-GDDSO,Month-to-month,Fiber optic,3,81.35,233.7,0.675,High,Offer a long-term contract with a targeted retention incentive.
+5630-IXDXV,Month-to-month,Fiber optic,47,106.35,4849.1,0.675,High,Offer a long-term contract with a targeted retention incentive.
+8263-JQAIK,Month-to-month,DSL,2,24.45,47.5,0.675,High,Offer a long-term contract with a targeted retention incentive.
+7901-TBKJX,Month-to-month,Fiber optic,56,101.05,5594.0,0.675,High,Offer a long-term contract with a targeted retention incentive.
+0928-XUTSN,Month-to-month,Fiber optic,13,80.5,1011.8,0.675,High,Offer a long-term contract with a targeted retention incentive.
+2962-XPMCQ,Month-to-month,DSL,2,45.15,98.5,0.675,High,Offer a long-term contract with a targeted retention incentive.
+3721-CNEYS,Month-to-month,Fiber optic,2,70.95,137.95,0.6715798684701949,High,Offer a long-term contract with a targeted retention incentive.
+6615-NGGZJ,Month-to-month,Fiber optic,14,100.55,1415.55,0.67,High,Offer a long-term contract with a targeted retention incentive.
+6435-SRWBJ,Month-to-month,Fiber optic,5,82.75,417.75,0.67,High,Offer a long-term contract with a targeted retention incentive.
+3097-NQYSN,Month-to-month,Fiber optic,2,86.85,156.35,0.67,High,Offer a long-term contract with a targeted retention incentive.
+1262-OPMFY,Month-to-month,Fiber optic,9,75.75,655.9,0.67,High,Offer a long-term contract with a targeted retention incentive.
+0013-EXCHZ,Month-to-month,Fiber optic,3,83.9,267.4,0.67,High,Offer a long-term contract with a targeted retention incentive.
+8384-FZBJK,Month-to-month,Fiber optic,57,100.6,5611.7,0.67,High,Offer a long-term contract with a targeted retention incentive.
+9253-QXKBE,Month-to-month,Fiber optic,29,94.45,2653.65,0.67,High,Offer a long-term contract with a targeted retention incentive.
+6087-MVHJH,Month-to-month,Fiber optic,16,88.45,1422.1,0.67,High,Offer a long-term contract with a targeted retention incentive.
+8699-ASUFO,Month-to-month,Fiber optic,7,74.4,527.9,0.67,High,Offer a long-term contract with a targeted retention incentive.
+5760-IFJOZ,Month-to-month,Fiber optic,3,107.95,313.6,0.67,High,Offer a long-term contract with a targeted retention incentive.
+2430-USGXP,Month-to-month,Fiber optic,24,101.05,2391.8,0.67,High,Offer a long-term contract with a targeted retention incentive.
+4317-VTEOA,Month-to-month,DSL,1,50.75,50.75,0.67,High,Offer a long-term contract with a targeted retention incentive.
+5429-LWCMV,Month-to-month,Fiber optic,12,89.15,1057.55,0.67,High,Offer a long-term contract with a targeted retention incentive.
+5868-YWPDW,Month-to-month,Fiber optic,6,84.2,519.15,0.67,High,Offer a long-term contract with a targeted retention incentive.
+3801-HMYNL,Month-to-month,Fiber optic,1,89.15,89.15,0.6686732339368122,High,Offer a long-term contract with a targeted retention incentive.
+4301-VVZKA,Month-to-month,Fiber optic,16,75.4,1189.4,0.665,High,Offer a long-term contract with a targeted retention incentive.
+4285-GYRQC,Month-to-month,Fiber optic,7,86.25,587.1,0.665,High,Offer a long-term contract with a targeted retention incentive.
+8443-WVPSS,Month-to-month,Fiber optic,10,99.85,990.9,0.665,High,Offer a long-term contract with a targeted retention incentive.
+1184-PJVDB,Month-to-month,Fiber optic,10,79.95,857.2,0.665,High,Offer a long-term contract with a targeted retention incentive.
+9191-MYQKX,Month-to-month,Fiber optic,7,75.15,496.9,0.665,High,Offer a long-term contract with a targeted retention incentive.
+3744-ZRRDZ,Month-to-month,Fiber optic,21,82.35,1852.85,0.665,High,Offer a long-term contract with a targeted retention incentive.
+0515-YPMCW,Month-to-month,Fiber optic,1,70.45,70.45,0.665,High,Offer a long-term contract with a targeted retention incentive.
+8325-QRPZR,Month-to-month,Fiber optic,7,75.15,525.0,0.665,High,Offer a long-term contract with a targeted retention incentive.
+1567-DSCIC,Month-to-month,Fiber optic,8,94.0,773.65,0.665,High,Offer a long-term contract with a targeted retention incentive.
+4283-FUTGF,Month-to-month,Fiber optic,19,79.85,1471.75,0.665,High,Offer a long-term contract with a targeted retention incentive.
+5599-HVLTW,Month-to-month,Fiber optic,14,80.35,1058.1,0.665,High,Offer a long-term contract with a targeted retention incentive.
+1415-YFWLT,Month-to-month,Fiber optic,1,89.3,89.3,0.665,High,Offer a long-term contract with a targeted retention incentive.
+7314-OXENN,Month-to-month,Fiber optic,2,82.0,184.65,0.665,High,Offer a long-term contract with a targeted retention incentive.
+8644-XLFBW,Month-to-month,Fiber optic,1,71.65,71.65,0.665,High,Offer a long-term contract with a targeted retention incentive.
+0365-BZUWY,Month-to-month,Fiber optic,17,102.55,1742.5,0.665,High,Offer a long-term contract with a targeted retention incentive.
+6267-DCFFZ,Month-to-month,Fiber optic,30,90.05,2627.2,0.665,High,Offer a long-term contract with a targeted retention incentive.
+1226-IENZN,Month-to-month,Fiber optic,16,78.75,1218.25,0.665,High,Offer a long-term contract with a targeted retention incentive.
+3349-ANQNH,One year,Fiber optic,59,99.5,5890.0,0.66,High,Prioritize service-quality review and offer a retention incentive.
+1024-VRZHF,Month-to-month,Fiber optic,11,74.95,825.7,0.66,High,Offer a long-term contract with a targeted retention incentive.
+8734-DKSTZ,Month-to-month,Fiber optic,10,85.95,858.6,0.66,High,Offer a long-term contract with a targeted retention incentive.
+6362-QHAFM,One year,Fiber optic,42,108.3,4586.15,0.66,High,Prioritize service-quality review and offer a retention incentive.
+4598-XLKNJ,Month-to-month,Fiber optic,25,98.5,2514.5,0.66,High,Offer a long-term contract with a targeted retention incentive.
+1612-EOHDH,Month-to-month,DSL,1,45.15,45.15,0.66,High,Offer a long-term contract with a targeted retention incentive.
+3319-DWOEP,Month-to-month,Fiber optic,6,95.75,573.75,0.66,High,Offer a long-term contract with a targeted retention incentive.
+1400-MMYXY,Month-to-month,Fiber optic,3,105.9,334.65,0.66,High,Offer a long-term contract with a targeted retention incentive.
+0947-MUGVO,Month-to-month,Fiber optic,20,73.65,1463.5,0.66,High,Offer a long-term contract with a targeted retention incentive.
+1389-CXMLU,Month-to-month,Fiber optic,3,91.05,289.1,0.66,High,Offer a long-term contract with a targeted retention incentive.
+2180-DXNEG,Month-to-month,Fiber optic,12,96.0,1062.1,0.66,High,Offer a long-term contract with a targeted retention incentive.
+6101-IMRMM,Month-to-month,Fiber optic,6,94.5,575.45,0.66,High,Offer a long-term contract with a targeted retention incentive.
+6821-BUXUX,Month-to-month,Fiber optic,13,96.65,1244.5,0.66,High,Offer a long-term contract with a targeted retention incentive.
+5207-PLSTK,Month-to-month,DSL,1,48.75,48.75,0.66,High,Offer a long-term contract with a targeted retention incentive.
+9696-RMYBA,Month-to-month,Fiber optic,5,80.1,398.55,0.66,High,Offer a long-term contract with a targeted retention incentive.
+4929-BSTRX,Month-to-month,DSL,1,53.55,53.55,0.66,High,Offer a long-term contract with a targeted retention incentive.
+2608-BHKFN,Month-to-month,Fiber optic,4,70.05,266.9,0.66,High,Offer a long-term contract with a targeted retention incentive.
+8816-VXNZD,Month-to-month,Fiber optic,1,75.1,75.1,0.66,High,Offer a long-term contract with a targeted retention incentive.
+3420-YJLQT,Month-to-month,Fiber optic,2,79.55,151.75,0.66,High,Offer a long-term contract with a targeted retention incentive.
+2876-GZYZC,Month-to-month,Fiber optic,13,85.95,1215.65,0.655,High,Offer a long-term contract with a targeted retention incentive.
+2107-FBPTK,Month-to-month,Fiber optic,30,104.1,3121.1,0.655,High,Offer a long-term contract with a targeted retention incentive.
+6377-WHAOX,Month-to-month,Fiber optic,60,106.15,6411.25,0.655,High,Offer a long-term contract with a targeted retention incentive.
+5348-CAGXB,Month-to-month,Fiber optic,12,89.55,1021.75,0.655,High,Offer a long-term contract with a targeted retention incentive.
+9643-AVVWI,Month-to-month,Fiber optic,3,80.0,241.3,0.655,High,Offer a long-term contract with a targeted retention incentive.
+0754-UKWQP,Month-to-month,Fiber optic,2,95.85,197.7,0.655,High,Offer a long-term contract with a targeted retention incentive.
+9237-HQITU,Month-to-month,Fiber optic,2,70.7,151.65,0.655,High,Offer a long-term contract with a targeted retention incentive.
+3254-YRILK,Month-to-month,Fiber optic,19,88.2,1775.8,0.655,High,Offer a long-term contract with a targeted retention incentive.
+2506-CLAKW,Month-to-month,Fiber optic,6,98.15,567.45,0.655,High,Offer a long-term contract with a targeted retention incentive.
+5858-EAFCZ,Month-to-month,DSL,1,44.45,44.45,0.655,High,Offer a long-term contract with a targeted retention incentive.
+3292-PBZEJ,Month-to-month,Fiber optic,11,111.4,1183.05,0.655,High,Offer a long-term contract with a targeted retention incentive.
+2480-JZOSN,Month-to-month,No,1,20.65,20.65,0.6505096788690058,High,Offer a long-term contract with a targeted retention incentive.
+5999-LCXAO,Month-to-month,DSL,1,29.9,29.9,0.65,High,Offer a long-term contract with a targeted retention incentive.
+1608-GMEWB,Month-to-month,Fiber optic,45,93.9,4200.25,0.65,High,Offer a long-term contract with a targeted retention incentive.
+0011-IGKFF,Month-to-month,Fiber optic,13,98.0,1237.85,0.65,High,Offer a long-term contract with a targeted retention incentive.
+2862-PFNIK,Month-to-month,DSL,1,24.7,24.7,0.65,High,Offer a long-term contract with a targeted retention incentive.
+4951-UKAAQ,Month-to-month,Fiber optic,4,88.95,355.2,0.65,High,Offer a long-term contract with a targeted retention incentive.
+9741-YLNTD,Month-to-month,Fiber optic,6,87.95,522.35,0.65,High,Offer a long-term contract with a targeted retention incentive.
+9693-XMUOB,Month-to-month,DSL,59,50.25,2997.45,0.65,High,Offer a long-term contract with a targeted retention incentive.
+8481-YYXWG,Month-to-month,Fiber optic,5,89.35,461.7,0.65,High,Offer a long-term contract with a targeted retention incentive.
+0168-XZKBB,Month-to-month,Fiber optic,19,86.85,1564.4,0.65,High,Offer a long-term contract with a targeted retention incentive.
+6212-ATMLK,Month-to-month,Fiber optic,50,95.7,4729.75,0.65,High,Offer a long-term contract with a targeted retention incentive.
+4659-NZRUF,Month-to-month,Fiber optic,19,95.15,1789.25,0.65,High,Offer a long-term contract with a targeted retention incentive.
+7748-UMTRK,Month-to-month,Fiber optic,30,101.3,2974.5,0.65,High,Offer a long-term contract with a targeted retention incentive.
+7079-QRCBC,Month-to-month,Fiber optic,24,98.75,2407.3,0.65,High,Offer a long-term contract with a targeted retention incentive.
+9334-GWGOW,Month-to-month,Fiber optic,7,74.85,485.25,0.65,High,Offer a long-term contract with a targeted retention incentive.
+2371-JQHZZ,Month-to-month,Fiber optic,24,93.0,2248.05,0.65,High,Offer a long-term contract with a targeted retention incentive.
+3716-UVSPD,Month-to-month,DSL,1,49.3,49.3,0.65,High,Offer a long-term contract with a targeted retention incentive.
+4423-YLHDV,Month-to-month,Fiber optic,21,104.4,2200.25,0.65,High,Offer a long-term contract with a targeted retention incentive.
+5399-ZIMKF,Month-to-month,Fiber optic,5,74.65,383.65,0.65,High,Offer a long-term contract with a targeted retention incentive.
+0426-TIRNE,Month-to-month,No,1,20.9,20.9,0.6456887323897278,High,Offer a long-term contract with a targeted retention incentive.
+3070-DVEYC,Month-to-month,Fiber optic,7,73.75,545.15,0.645,High,Offer a long-term contract with a targeted retention incentive.
+5229-PRWKT,Month-to-month,Fiber optic,8,86.55,649.65,0.645,High,Offer a long-term contract with a targeted retention incentive.
+8266-VBFQL,Month-to-month,Fiber optic,4,90.4,356.65,0.645,High,Offer a long-term contract with a targeted retention incentive.
+6432-TWQLB,Month-to-month,Fiber optic,5,85.4,401.1,0.645,High,Offer a long-term contract with a targeted retention incentive.
+7156-MHUGY,Month-to-month,Fiber optic,13,90.5,1201.15,0.645,High,Offer a long-term contract with a targeted retention incentive.
+7235-NXZCP,Month-to-month,Fiber optic,2,74.85,156.4,0.645,High,Offer a long-term contract with a targeted retention incentive.
+1122-JWTJW,Month-to-month,Fiber optic,1,70.65,70.65,0.645,High,Offer a long-term contract with a targeted retention incentive.
+0329-GTIAJ,Month-to-month,Fiber optic,3,97.9,315.3,0.645,High,Offer a long-term contract with a targeted retention incentive.
+2495-INZWQ,Month-to-month,DSL,4,44.55,174.3,0.645,High,Offer a long-term contract with a targeted retention incentive.
+3932-IJWDZ,Month-to-month,Fiber optic,45,103.65,4747.85,0.645,High,Offer a long-term contract with a targeted retention incentive.
+0916-QOFDP,Month-to-month,Fiber optic,14,95.8,1346.3,0.645,High,Offer a long-term contract with a targeted retention incentive.
+7969-AULMZ,Month-to-month,Fiber optic,21,97.35,2119.5,0.645,High,Offer a long-term contract with a targeted retention incentive.
+0396-YCHWO,Month-to-month,Fiber optic,36,95.4,3474.2,0.645,High,Offer a long-term contract with a targeted retention incentive.
+5569-KGJHX,Month-to-month,Fiber optic,9,85.35,754.65,0.645,High,Offer a long-term contract with a targeted retention incentive.
+3393-FMZPV,Month-to-month,Fiber optic,25,100.25,2387.75,0.645,High,Offer a long-term contract with a targeted retention incentive.
+5380-WJKOV,Month-to-month,Fiber optic,34,106.35,3549.25,0.645,High,Offer a long-term contract with a targeted retention incentive.
+9420-LOJKX,Month-to-month,Fiber optic,15,99.1,1426.4,0.645,High,Offer a long-term contract with a targeted retention incentive.
+5729-KLZAR,Month-to-month,Fiber optic,4,80.85,302.75,0.645,High,Offer a long-term contract with a targeted retention incentive.
+7434-SHXLS,Month-to-month,No,1,20.9,20.9,0.6433457143110792,High,Offer a long-term contract with a targeted retention incentive.
+7563-BIUPC,Month-to-month,Fiber optic,5,80.6,415.55,0.64,High,Offer a long-term contract with a targeted retention incentive.
+5077-DXTCG,Month-to-month,DSL,1,45.3,45.3,0.64,High,Offer a long-term contract with a targeted retention incentive.
+2359-KMGLI,Month-to-month,Fiber optic,24,80.25,1861.5,0.64,High,Offer a long-term contract with a targeted retention incentive.
+4818-QIUFN,Month-to-month,Fiber optic,20,79.15,1520.9,0.64,High,Offer a long-term contract with a targeted retention incentive.
+4572-DVCGN,Month-to-month,Fiber optic,10,80.25,846.0,0.64,High,Offer a long-term contract with a targeted retention incentive.
+9061-TIHDA,Month-to-month,Fiber optic,13,95.25,1233.65,0.64,High,Offer a long-term contract with a targeted retention incentive.
+6833-JMZYP,Month-to-month,Fiber optic,15,94.0,1505.45,0.64,High,Offer a long-term contract with a targeted retention incentive.
+0674-EYYZV,Month-to-month,DSL,1,54.65,54.65,0.64,High,Offer a long-term contract with a targeted retention incentive.
+9809-IMGCQ,Month-to-month,Fiber optic,22,96.7,2082.95,0.64,High,Offer a long-term contract with a targeted retention incentive.
+1597-LHYNC,Month-to-month,Fiber optic,26,95.0,2497.2,0.64,High,Offer a long-term contract with a targeted retention incentive.
+7270-BDIOA,Month-to-month,Fiber optic,22,90.0,1993.8,0.64,High,Offer a long-term contract with a targeted retention incentive.
+4140-MUHUG,Month-to-month,Fiber optic,3,86.85,220.95,0.64,High,Offer a long-term contract with a targeted retention incentive.
+2277-VWCNI,Month-to-month,DSL,4,48.75,179.85,0.64,High,Offer a long-term contract with a targeted retention incentive.
+0082-OQIQY,Month-to-month,Fiber optic,29,94.2,2607.6,0.64,High,Offer a long-term contract with a targeted retention incentive.
+8642-GVWRF,Month-to-month,Fiber optic,2,79.7,165.0,0.64,High,Offer a long-term contract with a targeted retention incentive.
+0135-NMXAP,Month-to-month,Fiber optic,12,89.75,1052.4,0.64,High,Offer a long-term contract with a targeted retention incentive.
+5673-FSSMF,Month-to-month,DSL,1,60.15,60.15,0.64,High,Offer a long-term contract with a targeted retention incentive.
+1905-OEILC,Month-to-month,No,1,19.5,19.5,0.6365816054976906,High,Offer a long-term contract with a targeted retention incentive.
+8844-TONUD,Month-to-month,Fiber optic,13,96.65,1162.85,0.635,High,Offer a long-term contract with a targeted retention incentive.
+9846-GKXAS,Month-to-month,Fiber optic,9,90.8,809.75,0.635,High,Offer a long-term contract with a targeted retention incentive.
+3671-SHRSP,Month-to-month,Fiber optic,4,80.6,319.15,0.635,High,Offer a long-term contract with a targeted retention incentive.
+2990-HWIML,Month-to-month,Fiber optic,6,89.5,573.3,0.635,High,Offer a long-term contract with a targeted retention incentive.
+5226-NOZFC,Month-to-month,Fiber optic,26,85.75,2146.5,0.635,High,Offer a long-term contract with a targeted retention incentive.
+7783-YKGDV,Month-to-month,Fiber optic,12,99.7,1238.45,0.635,High,Offer a long-term contract with a targeted retention incentive.
+2985-FMWYF,Month-to-month,Fiber optic,23,93.5,2341.55,0.635,High,Offer a long-term contract with a targeted retention incentive.
+8132-YPVBX,Month-to-month,Fiber optic,6,85.95,514.6,0.635,High,Offer a long-term contract with a targeted retention incentive.
+7218-HKQFK,Month-to-month,Fiber optic,2,94.2,167.5,0.635,High,Offer a long-term contract with a targeted retention incentive.
+4817-VYYWS,Month-to-month,Fiber optic,30,100.2,2983.8,0.635,High,Offer a long-term contract with a targeted retention incentive.
+4559-UWIHT,Month-to-month,Fiber optic,14,82.65,1185.0,0.635,High,Offer a long-term contract with a targeted retention incentive.
+3753-TSEMP,Month-to-month,Fiber optic,15,88.15,1390.6,0.635,High,Offer a long-term contract with a targeted retention incentive.
+1918-ZBFQJ,Month-to-month,Fiber optic,13,79.25,1111.65,0.635,High,Offer a long-term contract with a targeted retention incentive.
+9874-QLCLH,Month-to-month,Fiber optic,17,104.2,1743.5,0.635,High,Offer a long-term contract with a targeted retention incentive.
+1013-QCWAM,Month-to-month,Fiber optic,66,100.8,6690.75,0.635,High,Offer a long-term contract with a targeted retention incentive.
+8065-YKXKD,Month-to-month,Fiber optic,10,74.75,799.65,0.635,High,Offer a long-term contract with a targeted retention incentive.
+7363-QTBIW,Month-to-month,Fiber optic,9,79.75,769.1,0.635,High,Offer a long-term contract with a targeted retention incentive.
+1016-DJTSV,Month-to-month,Fiber optic,8,69.7,572.85,0.635,High,Offer a long-term contract with a targeted retention incentive.
+1522-VVDMG,Month-to-month,Fiber optic,7,89.75,608.8,0.63,High,Offer a long-term contract with a targeted retention incentive.
+4062-HBMOS,Month-to-month,Fiber optic,52,103.05,5364.8,0.63,High,Offer a long-term contract with a targeted retention incentive.
+5666-CYCYZ,Month-to-month,Fiber optic,24,89.55,2259.35,0.63,High,Offer a long-term contract with a targeted retention incentive.
+6818-DJXAA,Month-to-month,Fiber optic,10,91.1,964.35,0.63,High,Offer a long-term contract with a targeted retention incentive.
+3247-ZVOUO,Month-to-month,Fiber optic,10,85.55,851.75,0.63,High,Offer a long-term contract with a targeted retention incentive.
+0812-WUPTB,Month-to-month,Fiber optic,1,70.85,70.85,0.63,High,Offer a long-term contract with a targeted retention incentive.
+5896-NPFWW,Month-to-month,DSL,3,50.15,168.15,0.63,High,Offer a long-term contract with a targeted retention incentive.
+3440-JPSCL,Month-to-month,Fiber optic,6,99.95,547.65,0.63,High,Offer a long-term contract with a targeted retention incentive.
+9625-QSTYE,Month-to-month,Fiber optic,13,81.15,952.3,0.63,High,Offer a long-term contract with a targeted retention incentive.
+0491-KAPQG,Month-to-month,Fiber optic,21,73.7,1558.7,0.63,High,Offer a long-term contract with a targeted retention incentive.
+0378-TOVMS,Month-to-month,Fiber optic,3,85.8,272.2,0.63,High,Offer a long-term contract with a targeted retention incentive.
+9214-EKVXR,Month-to-month,DSL,1,44.0,44.0,0.63,High,Offer a long-term contract with a targeted retention incentive.
+0654-HMSHN,Month-to-month,Fiber optic,21,104.4,2157.95,0.63,High,Offer a long-term contract with a targeted retention incentive.
+7460-ITWWP,Month-to-month,Fiber optic,45,86.1,3861.45,0.63,High,Offer a long-term contract with a targeted retention incentive.
+9689-PTNPG,Month-to-month,Fiber optic,2,80.25,144.55,0.63,High,Offer a long-term contract with a targeted retention incentive.
+4482-EWFMI,Month-to-month,Fiber optic,2,69.7,135.2,0.63,High,Offer a long-term contract with a targeted retention incentive.
+9314-IJWSQ,Month-to-month,Fiber optic,14,84.8,1203.9,0.63,High,Offer a long-term contract with a targeted retention incentive.
+9436-ZBZCT,Month-to-month,Fiber optic,14,89.95,1178.4,0.63,High,Offer a long-term contract with a targeted retention incentive.
+3669-OYSJI,Month-to-month,DSL,1,46.2,46.2,0.625,High,Offer a long-term contract with a targeted retention incentive.
+3191-CSNMG,Month-to-month,Fiber optic,3,80.7,239.45,0.625,High,Offer a long-term contract with a targeted retention incentive.
+1508-DFXCU,Month-to-month,Fiber optic,12,81.45,912.0,0.625,High,Offer a long-term contract with a targeted retention incentive.
+1379-FRVEB,Month-to-month,Fiber optic,15,91.0,1430.05,0.625,High,Offer a long-term contract with a targeted retention incentive.
+4450-DLLMH,Month-to-month,Fiber optic,2,71.3,157.75,0.625,High,Offer a long-term contract with a targeted retention incentive.
+0247-SLUJI,Month-to-month,No,1,19.7,19.7,0.625,High,Offer a long-term contract with a targeted retention incentive.
+7354-OIJLX,Month-to-month,Fiber optic,9,75.85,724.65,0.625,High,Offer a long-term contract with a targeted retention incentive.
+0925-VYDLG,Month-to-month,Fiber optic,3,75.25,242.0,0.625,High,Offer a long-term contract with a targeted retention incentive.
+8868-WOZGU,Month-to-month,Fiber optic,28,105.7,2979.5,0.625,High,Offer a long-term contract with a targeted retention incentive.
+9912-GVSEQ,Month-to-month,Fiber optic,26,93.85,2381.55,0.625,High,Offer a long-term contract with a targeted retention incentive.
+7831-QGOXH,Month-to-month,Fiber optic,18,85.2,1553.9,0.625,High,Offer a long-term contract with a targeted retention incentive.
+4749-OJKQU,Month-to-month,Fiber optic,4,75.65,302.35,0.625,High,Offer a long-term contract with a targeted retention incentive.
+1845-ZLLIG,Month-to-month,DSL,1,50.15,50.15,0.625,High,Offer a long-term contract with a targeted retention incentive.
+7517-LDMPS,Month-to-month,Fiber optic,12,84.6,1017.35,0.625,High,Offer a long-term contract with a targeted retention incentive.
+8854-CCVSQ,Month-to-month,Fiber optic,18,80.65,1451.9,0.625,High,Offer a long-term contract with a targeted retention incentive.
+7928-VJYAB,Month-to-month,Fiber optic,11,90.6,1020.2,0.625,High,Offer a long-term contract with a targeted retention incentive.
+4514-GFCFI,Month-to-month,Fiber optic,16,84.75,1350.15,0.625,High,Offer a long-term contract with a targeted retention incentive.
+3750-CKVKH,Month-to-month,Fiber optic,2,67.75,116.65,0.6244623733199166,High,Offer a long-term contract with a targeted retention incentive.
+4439-JMPMT,Month-to-month,Fiber optic,5,85.75,470.95,0.62,High,Offer a long-term contract with a targeted retention incentive.
+3629-ZNKXA,Month-to-month,Fiber optic,17,101.8,1752.45,0.62,High,Offer a long-term contract with a targeted retention incentive.
+5940-NFXKV,Month-to-month,Fiber optic,19,83.65,1465.75,0.62,High,Offer a long-term contract with a targeted retention incentive.
+6771-XWBDM,Month-to-month,Fiber optic,57,104.5,5921.35,0.62,High,Offer a long-term contract with a targeted retention incentive.
+5293-WXJAK,Month-to-month,Fiber optic,11,104.05,1133.65,0.62,High,Offer a long-term contract with a targeted retention incentive.
+7181-OQCUT,Month-to-month,Fiber optic,21,103.85,2215.0,0.62,High,Offer a long-term contract with a targeted retention incentive.
+2325-NBPZG,Month-to-month,Fiber optic,3,74.55,233.65,0.62,High,Offer a long-term contract with a targeted retention incentive.
+6650-VJONK,Month-to-month,DSL,1,43.85,43.85,0.62,High,Offer a long-term contract with a targeted retention incentive.
+5204-QZXPU,Month-to-month,DSL,19,39.65,733.35,0.62,High,Offer a long-term contract with a targeted retention incentive.
+2472-OVKUP,Month-to-month,Fiber optic,6,91.0,531.0,0.62,High,Offer a long-term contract with a targeted retention incentive.
+3640-PHQXK,Month-to-month,Fiber optic,31,89.9,2806.9,0.62,High,Offer a long-term contract with a targeted retention incentive.
+7056-IMHCC,Month-to-month,Fiber optic,53,101.9,5549.4,0.62,High,Offer a long-term contract with a targeted retention incentive.
+8785-CJSHH,Month-to-month,Fiber optic,60,99.8,5985.75,0.62,High,Offer a long-term contract with a targeted retention incentive.
+2187-PKZAY,Month-to-month,Fiber optic,12,79.95,1043.4,0.62,High,Offer a long-term contract with a targeted retention incentive.
+1602-IJQQE,Month-to-month,Fiber optic,4,75.35,338.1,0.62,High,Offer a long-term contract with a targeted retention incentive.
+7599-FKVXZ,Month-to-month,Fiber optic,42,106.15,4512.7,0.62,High,Offer a long-term contract with a targeted retention incentive.
+6907-FLBER,Month-to-month,DSL,1,54.3,54.3,0.62,High,Offer a long-term contract with a targeted retention incentive.
+8519-IMDHU,Month-to-month,Fiber optic,15,85.6,1345.55,0.62,High,Offer a long-term contract with a targeted retention incentive.
+6127-ISGTU,Month-to-month,Fiber optic,16,84.95,1378.25,0.62,High,Offer a long-term contract with a targeted retention incentive.
+2025-JKFWI,Month-to-month,Fiber optic,13,99.0,1301.7,0.615,High,Offer a long-term contract with a targeted retention incentive.
+8290-YWKHZ,Month-to-month,Fiber optic,32,93.2,2931.0,0.615,High,Offer a long-term contract with a targeted retention incentive.
+6221-AVQYL,Month-to-month,Fiber optic,2,73.25,131.05,0.615,High,Offer a long-term contract with a targeted retention incentive.
+1981-INRFU,Month-to-month,Fiber optic,2,79.75,164.5,0.615,High,Offer a long-term contract with a targeted retention incentive.
+1564-NTYXF,Month-to-month,Fiber optic,13,82.0,1127.2,0.615,High,Offer a long-term contract with a targeted retention incentive.
+5502-RLUYV,Month-to-month,Fiber optic,69,103.95,7446.9,0.615,High,Offer a long-term contract with a targeted retention incentive.
+3914-FDRHP,Month-to-month,Fiber optic,9,86.25,770.5,0.615,High,Offer a long-term contract with a targeted retention incentive.
+9547-ITEFG,Month-to-month,Fiber optic,9,102.6,897.75,0.615,High,Offer a long-term contract with a targeted retention incentive.
+7145-FEJWU,Month-to-month,Fiber optic,12,105.3,1275.65,0.615,High,Offer a long-term contract with a targeted retention incentive.
+9799-CAYJJ,Month-to-month,Fiber optic,2,69.3,153.8,0.615,High,Offer a long-term contract with a targeted retention incentive.
+7586-ZATGZ,Month-to-month,Fiber optic,40,84.9,3369.05,0.615,High,Offer a long-term contract with a targeted retention incentive.
+8485-GJCDN,Month-to-month,Fiber optic,5,69.05,318.5,0.615,High,Offer a long-term contract with a targeted retention incentive.
+4521-YEEHE,Month-to-month,Fiber optic,18,88.85,1594.75,0.615,High,Offer a long-term contract with a targeted retention incentive.
+5669-SRAIP,Month-to-month,DSL,5,39.5,210.75,0.615,High,Offer a long-term contract with a targeted retention incentive.
+3005-TYFRD,Month-to-month,Fiber optic,55,103.65,5676.65,0.615,High,Offer a long-term contract with a targeted retention incentive.
+9787-XVQIU,Month-to-month,Fiber optic,1,75.3,75.3,0.615,High,Offer a long-term contract with a targeted retention incentive.
+3427-GGZZI,Month-to-month,Fiber optic,19,89.1,1620.8,0.615,High,Offer a long-term contract with a targeted retention incentive.
+6048-QBXKL,Month-to-month,DSL,2,56.55,118.25,0.615,High,Offer a long-term contract with a targeted retention incentive.
+1428-GTBJJ,Month-to-month,Fiber optic,11,74.55,824.75,0.615,High,Offer a long-term contract with a targeted retention incentive.
+9611-CTWIH,Month-to-month,Fiber optic,3,89.45,240.45,0.615,High,Offer a long-term contract with a targeted retention incentive.
+5923-GXUOC,Month-to-month,Fiber optic,10,104.4,1081.45,0.615,High,Offer a long-term contract with a targeted retention incentive.
+9601-BRXPO,Month-to-month,Fiber optic,25,104.95,2566.5,0.615,High,Offer a long-term contract with a targeted retention incentive.
+9894-EZEWG,Month-to-month,Fiber optic,1,74.3,74.3,0.615,High,Offer a long-term contract with a targeted retention incentive.
+4432-ADRLB,Month-to-month,DSL,2,44.65,74.9,0.615,High,Offer a long-term contract with a targeted retention incentive.
+8903-WMRNW,Month-to-month,Fiber optic,15,101.75,1669.4,0.615,High,Offer a long-term contract with a targeted retention incentive.
+5440-VHLUL,One year,Fiber optic,69,105.2,7386.05,0.615,High,Prioritize service-quality review and offer a retention incentive.
+2657-VPXTA,Month-to-month,Fiber optic,10,88.85,929.45,0.615,High,Offer a long-term contract with a targeted retention incentive.
+7044-YAACC,Month-to-month,Fiber optic,4,70.2,280.35,0.615,High,Offer a long-term contract with a targeted retention incentive.
+6376-GAHQE,Month-to-month,Fiber optic,4,77.85,299.2,0.615,High,Offer a long-term contract with a targeted retention incentive.
+9685-WKZGT,Month-to-month,Fiber optic,14,74.95,1036.75,0.61,High,Offer a long-term contract with a targeted retention incentive.
+0727-IWKVK,Month-to-month,Fiber optic,9,79.9,741.7,0.61,High,Offer a long-term contract with a targeted retention incentive.
+1587-FKLZB,Month-to-month,Fiber optic,66,99.5,6822.15,0.61,High,Offer a long-term contract with a targeted retention incentive.
+4817-QRJSX,Month-to-month,Fiber optic,10,81.0,818.05,0.61,High,Offer a long-term contract with a targeted retention incentive.
+6402-ZFPPI,Month-to-month,Fiber optic,25,102.8,2660.2,0.61,High,Offer a long-term contract with a targeted retention incentive.
+0420-HLGXF,Month-to-month,Fiber optic,39,99.75,4036.0,0.61,High,Offer a long-term contract with a targeted retention incentive.
+9365-SRSZE,Month-to-month,Fiber optic,27,70.55,1943.9,0.61,High,Offer a long-term contract with a targeted retention incentive.
+0880-TKATG,Month-to-month,Fiber optic,4,101.15,385.9,0.61,High,Offer a long-term contract with a targeted retention incentive.
+0018-NYROU,Month-to-month,Fiber optic,5,68.95,351.5,0.61,High,Offer a long-term contract with a targeted retention incentive.
+0872-NXJYS,Month-to-month,Fiber optic,9,79.55,723.4,0.61,High,Offer a long-term contract with a targeted retention incentive.
+0390-DCFDQ,Month-to-month,Fiber optic,1,70.45,70.45,0.61,High,Offer a long-term contract with a targeted retention incentive.
+6338-AVWCY,Month-to-month,DSL,3,40.15,130.75,0.61,High,Offer a long-term contract with a targeted retention incentive.
+7852-LECYP,Month-to-month,Fiber optic,13,93.8,1261.0,0.61,High,Offer a long-term contract with a targeted retention incentive.
+8107-KNCIM,Month-to-month,Fiber optic,14,75.1,1013.35,0.61,High,Offer a long-term contract with a targeted retention incentive.
+4277-PVRAN,Month-to-month,Fiber optic,8,80.1,679.3,0.61,High,Offer a long-term contract with a targeted retention incentive.
+8229-TNIQA,Month-to-month,DSL,4,45.3,196.95,0.605,High,Offer a long-term contract with a targeted retention incentive.
+2091-RFFBA,Month-to-month,Fiber optic,31,73.9,2217.15,0.605,High,Offer a long-term contract with a targeted retention incentive.
+6817-WTYHE,Month-to-month,DSL,2,44.9,111.05,0.605,High,Offer a long-term contract with a targeted retention incentive.
+5976-JCJRH,Month-to-month,Fiber optic,10,70.3,738.2,0.605,High,Offer a long-term contract with a targeted retention incentive.
+1465-VINDH,Month-to-month,Fiber optic,10,102.1,1068.85,0.605,High,Offer a long-term contract with a targeted retention incentive.
+6537-QLGEX,Month-to-month,DSL,16,38.9,664.4,0.605,High,Offer a long-term contract with a targeted retention incentive.
+7240-ETPTR,Month-to-month,DSL,9,48.75,442.2,0.605,High,Offer a long-term contract with a targeted retention incentive.
+8625-AZYZY,Month-to-month,Fiber optic,24,104.65,2542.45,0.605,High,Offer a long-term contract with a targeted retention incentive.
+2205-YMZZJ,Month-to-month,Fiber optic,7,84.8,546.95,0.605,High,Offer a long-term contract with a targeted retention incentive.
+8873-GLDMH,Month-to-month,Fiber optic,6,73.85,401.3,0.6042352941176471,High,Offer a long-term contract with a targeted retention incentive.
+2468-SJFLM,Month-to-month,Fiber optic,1,74.3,74.3,0.6036732339368122,High,Offer a long-term contract with a targeted retention incentive.

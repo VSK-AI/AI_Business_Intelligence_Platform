@@ -1,0 +1,42 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual Environment
+
+venv/
+.venv/
+env/
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Python cache
+
+*.egg-info/
+
+# Environment variables
+
+.env
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
