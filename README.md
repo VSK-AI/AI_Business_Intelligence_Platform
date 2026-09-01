@@ -185,7 +185,7 @@ AI_Business_Intelligence_Platform/
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/VSK-AI/AI_Business_Intelligence_Platform.git
 ```
 
 Navigate to the project:
